@@ -1,0 +1,245 @@
+DOI,Paper_Title,Link
+10.1016/j.jss.2023.111838,Impact of data quality for automatic issue classification using pre-trained language models,https://www.sciencedirect.com/science/article/pii/S0164121223002339
+10.1016/j.jss.2024.112105,Refactoring react-based Web apps,https://www.sciencedirect.com/science/article/pii/S016412122400150X
+10.1016/j.jss.2024.112064,Actionable light-weight process guidance,https://www.sciencedirect.com/science/article/pii/S0164121224001092
+10.1016/j.jss.2024.112108,Conversation in forums: How software forum posts discuss potential development insights,https://www.sciencedirect.com/science/article/pii/S0164121224001535
+10.1016/j.jss.2023.111942,Edge to cloud tools: A Multivocal Literature Review,https://www.sciencedirect.com/science/article/pii/S0164121223003370
+10.1016/j.jss.2023.111906,Monitoring tools for DevOps and microservices: A systematic grey literature review,https://www.sciencedirect.com/science/article/pii/S0164121223003011
+10.1016/j.jss.2024.112144,GDPR compliance via software evolution: Weaving security controls in software design,https://www.sciencedirect.com/science/article/pii/S0164121224001894
+10.1016/j.jss.2023.111833,Architectural support for software performance in continuous software engineering: A systematic mapping study,https://www.sciencedirect.com/science/article/pii/S0164121223002285
+10.1016/j.jss.2024.112106,Pandemic startup software engineering: An experience report on the development of a COVID-19 certificate verification system,https://www.sciencedirect.com/science/article/pii/S0164121224001511
+10.1016/j.jss.2024.111965,A qualitative and quantitative analysis of container engines,https://www.sciencedirect.com/science/article/pii/S0164121224000086
+10.1016/j.jss.2024.112062,Evaluating software security maturity using OWASP SAMM: Different approaches and stakeholders perceptions,https://www.sciencedirect.com/science/article/pii/S0164121224001079
+10.1016/j.jss.2023.111934,A survey on machine learning techniques applied to source code,https://www.sciencedirect.com/science/article/pii/S0164121223003291
+10.1016/j.jss.2023.111916,DValidator: An approach for validating dependencies in build configurations,https://www.sciencedirect.com/science/article/pii/S0164121223003114
+10.1016/j.jss.2024.112109,Deep semi-supervised learning for recovering traceability links between issues and commits,https://www.sciencedirect.com/science/article/pii/S0164121224001547
+10.1016/j.jss.2024.111985,The influence of the city metaphor and its derivates in software visualization,https://www.sciencedirect.com/science/article/pii/S0164121224000281
+10.1016/j.jss.2023.111943,"Processes, methods, and tools in model-based engineering—A qualitative multiple-case study",https://www.sciencedirect.com/science/article/pii/S0164121223003382
+10.1016/j.jss.2023.111909,Not all requirements prioritization criteria are equal at all times: A quantitative analysis,https://www.sciencedirect.com/science/article/pii/S0164121223003047
+10.1016/j.jss.2024.112110,Microservice API Evolution in Practice: A Study on Strategies and Challenges,https://www.sciencedirect.com/science/article/pii/S0164121224001559
+10.1016/j.jss.2024.112053,Identifying concerns when specifying machine learning-enabled systems: A perspective-based approach,https://www.sciencedirect.com/science/article/pii/S0164121224000980
+10.1016/j.jss.2024.112139,On the effectiveness of hybrid pooling in mixup-based graph learning for language processing,https://www.sciencedirect.com/science/article/pii/S0164121224001845
+10.1016/j.jss.2023.111935,Incivility detection in open source code review and issue discussions,https://www.sciencedirect.com/science/article/pii/S0164121223003308
+10.1016/j.jss.2023.111908,Harmonizing DevOps taxonomies — A grounded theory study,https://www.sciencedirect.com/science/article/pii/S0164121223003035
+10.1016/j.jss.2024.112063,Identifying the primary dimensions of DevSecOps: A multi-vocal literature review,https://www.sciencedirect.com/science/article/pii/S0164121224001080
+10.1016/j.jss.2023.111907,"Software engineering practices for machine learning — Adoption, effects, and team assessment",https://www.sciencedirect.com/science/article/pii/S0164121223003023
+10.1016/j.jss.2024.112187,Research artifacts for human-oriented experiments in software engineering: An ACM badges-driven structure proposal,https://www.sciencedirect.com/science/article/pii/S0164121224002310
+10.1016/j.jss.2024.112155,A systematic literature review on characteristics of the front-end phase of agile software development projects and their connections to project success,https://www.sciencedirect.com/science/article/pii/S0164121224002000
+10.1016/j.jss.2023.111859,Detection of backdoor attacks using targeted universal adversarial perturbations for deep neural networks,https://www.sciencedirect.com/science/article/pii/S0164121223002546
+10.1016/j.jss.2024.112051,A conceptual and architectural characterization of antifragile systems,https://www.sciencedirect.com/science/article/pii/S0164121224000967
+10.1016/j.jss.2024.112151,"Technical debt in AI-enabled systems: On the prevalence, severity, impact, and management strategies for code and architecture",https://www.sciencedirect.com/science/article/pii/S0164121224001961
+10.1016/j.jss.2024.112122,Version control of speaker recognition systems,https://www.sciencedirect.com/science/article/pii/S0164121224001675
+10.1016/j.jss.2024.112031,GRACE: Empowering LLM-based software vulnerability detection with graph structure and in-context learning,https://www.sciencedirect.com/science/article/pii/S0164121224000748
+10.1016/j.jss.2024.112189,GBSR: Graph-based suspiciousness refinement for improving fault localization,https://www.sciencedirect.com/science/article/pii/S0164121224002334
+10.1016/j.jss.2023.111877,Eclipse Open SmartCLIDE: An end-to-end framework for facilitating service reuse in cloud development,https://www.sciencedirect.com/science/article/pii/S0164121223002728
+10.1016/j.jss.2024.112038,CSVD-TF: Cross-project software vulnerability detection with TrAdaBoost by fusing expert metrics and semantic metrics,https://www.sciencedirect.com/science/article/pii/S0164121224000815
+10.1016/j.jss.2024.112131,Data preparation for Deep Learning based Code Smell Detection: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S0164121224001766
+10.1016/j.jss.2024.112059,GPTSniffer: A CodeBERT-based classifier to detect source code written by ChatGPT,https://www.sciencedirect.com/science/article/pii/S0164121224001043
+10.1016/j.jss.2023.111932,Investigating the robustness of locators in template-based Web application testing using a GUI change classification model,https://www.sciencedirect.com/science/article/pii/S0164121223003278
+10.1016/j.jss.2024.111970,L′OP-ART: A linear-time adaptive random testing algorithm for object-oriented programs,https://www.sciencedirect.com/science/article/pii/S016412122400013X
+10.1016/j.jss.2024.112019,Bug priority change: An empirical study on Apache projects,https://www.sciencedirect.com/science/article/pii/S0164121224000621
+10.1016/j.jss.2024.112010,A framework for the design of fault-tolerant systems-of-systems,https://www.sciencedirect.com/science/article/pii/S0164121224000530
+10.1016/j.jss.2024.112226,Symbolic testing of floating-point bugs and exceptions,https://www.sciencedirect.com/science/article/pii/S016412122400270X
+10.1016/j.jss.2024.112228,"A generalized, rule-based method for the detection of intermittent faults in software programs",https://www.sciencedirect.com/science/article/pii/S0164121224002723
+10.1016/j.jss.2024.112225,Assessing gender bias in the software used in computer science and software engineering education,https://www.sciencedirect.com/science/article/pii/S0164121224002693
+10.1016/j.jss.2024.112231,Model-based safety analysis of requirement specifications,https://www.sciencedirect.com/science/article/pii/S0164121224002759
+10.1016/j.jss.2024.112221,Program dependence net and on-demand slicing for property verification of concurrent system and software,https://www.sciencedirect.com/science/article/pii/S0164121224002656
+10.1016/j.jss.2024.112152,Automated program repair for variability bugs in software product line systems,https://www.sciencedirect.com/science/article/pii/S0164121224001973
+10.1016/j.jss.2024.112188,Software modernization powered by dynamic language product lines,https://www.sciencedirect.com/science/article/pii/S0164121224002322
+10.1016/j.jss.2024.112184,Adaptive data quality scoring operations framework using drift-aware mechanism for industrial applications,https://www.sciencedirect.com/science/article/pii/S0164121224002280
+10.1016/j.jss.2024.112185,Towards a common data-driven culture: A longitudinal study of the tensions and emerging solutions involved in becoming data-driven in a large public sector organization,https://www.sciencedirect.com/science/article/pii/S0164121224002292
+10.1016/j.jss.2024.112183,Experimental evaluation of architectural software performance design patterns in microservices,https://www.sciencedirect.com/science/article/pii/S0164121224002279
+10.1016/j.jss.2024.112170,Evolution patterns of software-architecture smells: An empirical study of intra- and inter-version smells,https://www.sciencedirect.com/science/article/pii/S0164121224002152
+10.1016/j.jss.2024.112182,CfExplainer: Explainable just-in-time defect prediction based on counterfactuals,https://www.sciencedirect.com/science/article/pii/S0164121224002267
+10.1016/j.jss.2024.112164,Unlocking inclusive education: A quality assessment of software design in applications for children with autism,https://www.sciencedirect.com/science/article/pii/S0164121224002097
+10.1016/j.jss.2024.112179,An empirical study on bug severity estimation using source code metrics and static analysis,https://www.sciencedirect.com/science/article/pii/S0164121224002243
+10.1016/j.jss.2024.112180,An architecture for model-based and intelligent automation in DevOps,https://www.sciencedirect.com/science/article/pii/S0164121224002255
+10.1016/j.jss.2024.112165,Exploring the trade-off between computational power and energy efficiency: An analysis of the evolution of quantum computing and its relation to classical computing,https://www.sciencedirect.com/science/article/pii/S0164121224002103
+10.1016/j.jss.2024.112163,Understanding participation and corporatization in service of diversity in free/libre and open source software development projects,https://www.sciencedirect.com/science/article/pii/S0164121224002085
+10.1016/j.jss.2024.112166,Reliable proactive adaptation via prediction fusion and extended stochastic model predictive control,https://www.sciencedirect.com/science/article/pii/S0164121224002115
+10.1016/j.jss.2024.112167,PMTT: Parallel multi-scale temporal convolution network and transformer for predicting the time to aging failure of software systems,https://www.sciencedirect.com/science/article/pii/S0164121224002127
+10.1016/j.jss.2024.112169,Enhancing understanding and addressing gender bias in IT/SE job advertisements,https://www.sciencedirect.com/science/article/pii/S0164121224002140
+10.1016/j.jss.2024.112168,Real-Time rejuvenation scheduling for cloud systems with virtualized software spares,https://www.sciencedirect.com/science/article/pii/S0164121224002139
+10.1016/j.jss.2024.112162,Uncovering gender gap in academia: A comprehensive analysis within the software engineering community,https://www.sciencedirect.com/science/article/pii/S0164121224002073
+10.1016/j.jss.2024.112159,EvaluateXAI: A framework to evaluate the reliability and consistency of rule-based XAI techniques for software analytics tasks,https://www.sciencedirect.com/science/article/pii/S0164121224002048
+10.1016/j.jss.2024.112160,Vulnerability detection techniques for smart contracts: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S016412122400205X
+10.1016/j.jss.2024.112161,Hybrid quantum architecture for smart city security,https://www.sciencedirect.com/science/article/pii/S0164121224002061
+10.1016/j.jss.2024.112153,Evaluation of visual property specification languages based on practical model-checking experience,https://www.sciencedirect.com/science/article/pii/S0164121224001985
+10.1016/j.jss.2024.112158,"Reproducibility of issues reported in stack overflow questions: Challenges, impact & estimation",https://www.sciencedirect.com/science/article/pii/S0164121224002036
+10.1016/j.jss.2024.112157,Feature-oriented test case selection and prioritization during the evolution of highly-configurable systems,https://www.sciencedirect.com/science/article/pii/S0164121224002024
+10.1016/j.jss.2024.112156,SGT: Aging-related bug prediction via semantic feature learning based on graph-transformer,https://www.sciencedirect.com/science/article/pii/S0164121224002012
+10.1016/j.jss.2024.112154,AML: An accuracy metric model for effective evaluation of log parsing techniques,https://www.sciencedirect.com/science/article/pii/S0164121224001997
+10.1016/j.jss.2024.112150,UVLHub: A feature model data repository using UVL and open science principles,https://www.sciencedirect.com/science/article/pii/S016412122400195X
+10.1016/j.jss.2024.112143,A fuzzy logic-based quality model for identifying microservices with low maintainability,https://www.sciencedirect.com/science/article/pii/S0164121224001882
+10.1016/j.jss.2024.112147,Temporal isolation assessment in virtualized safety-critical mixed-criticality systems: A case study on Xen hypervisor,https://www.sciencedirect.com/science/article/pii/S0164121224001924
+10.1016/j.jss.2024.112142,"Evaluating intrusion detection for microservice applications: Benchmark, dataset, and case studies",https://www.sciencedirect.com/science/article/pii/S0164121224001870
+10.1016/j.jss.2024.112149,Project-specific code summarization with in-context learning,https://www.sciencedirect.com/science/article/pii/S0164121224001948
+10.1016/j.jss.2024.112140,"SynthoMinds: Bridging human programming intuition with retrieval, analogy, and reasoning in program synthesis",https://www.sciencedirect.com/science/article/pii/S0164121224001857
+10.1016/j.jss.2024.112145,MicroIRC: Instance-level Root Cause Localization for Microservice Systems,https://www.sciencedirect.com/science/article/pii/S0164121224001900
+10.1016/j.jss.2024.112148,BIT: A template-based approach to incremental and bidirectional model-to-text transformation,https://www.sciencedirect.com/science/article/pii/S0164121224001936
+10.1016/j.jss.2024.112141,Flexible and reversible conversion between extensible records and overloading constraints for ML,https://www.sciencedirect.com/science/article/pii/S0164121224001869
+10.1016/j.jss.2024.112137,Impermanent identifiers: Enhanced source code comprehension and refactoring,https://www.sciencedirect.com/science/article/pii/S0164121224001821
+10.1016/j.jss.2024.112138,Runtime verification on abstract finite state models,https://www.sciencedirect.com/science/article/pii/S0164121224001833
+10.1016/j.jss.2024.112119,BugOss: A benchmark of real-world regression bugs for empirical investigation of regression fuzzing techniques,https://www.sciencedirect.com/science/article/pii/S016412122400164X
+10.1016/j.jss.2024.112136,Understanding Virtual Onboarding Dynamics and Developer Turnover Intention in the Era of Pandemic,https://www.sciencedirect.com/science/article/pii/S016412122400181X
+10.1016/j.jss.2024.112146,End-to-end log statement generation at block-level,https://www.sciencedirect.com/science/article/pii/S0164121224001912
+10.1016/j.jss.2024.112135,Time to separate from StackOverflow and match with ChatGPT for encryption,https://www.sciencedirect.com/science/article/pii/S0164121224001808
+10.1016/j.jss.2024.112123,Long-term software fault prediction with wavelet shrinkage estimation,https://www.sciencedirect.com/science/article/pii/S0164121224001687
+10.1016/j.jss.2024.112120,"Requirements quality research artifacts: Recovery, analysis, and management guideline",https://www.sciencedirect.com/science/article/pii/S0164121224001651
+10.1016/j.jss.2024.112121,Set evolution based test data generation for killing stubborn mutants,https://www.sciencedirect.com/science/article/pii/S0164121224001663
+10.1016/j.jss.2024.112118,A vulnerability detection framework with enhanced graph feature learning,https://www.sciencedirect.com/science/article/pii/S0164121224001638
+10.1016/j.jss.2024.112117,Enhancing empirical software performance engineering research with kernel-level events: A comprehensive system tracing approach,https://www.sciencedirect.com/science/article/pii/S0164121224001626
+10.1016/j.jss.2024.112111,Applying short text topic models to instant messaging communication of software developers,https://www.sciencedirect.com/science/article/pii/S0164121224001560
+10.1016/j.jss.2024.112112,Mining for cost awareness in the infrastructure as code artifacts of cloud-based applications: An exploratory study,https://www.sciencedirect.com/science/article/pii/S0164121224001572
+10.1016/j.jss.2024.112116,Confix: Combining node-level fix templates and masked language model for automatic program repair,https://www.sciencedirect.com/science/article/pii/S0164121224001614
+10.1016/j.jss.2024.112114,Variability management and software product line knowledge in software companies,https://www.sciencedirect.com/science/article/pii/S0164121224001596
+10.1016/j.jss.2024.112113,Automating the correctness assessment of AI-generated code for security contexts,https://www.sciencedirect.com/science/article/pii/S0164121224001584
+10.1016/j.jss.2024.112093,Semantic interoperability for an AI-based applications platform for smart hospitals using HL7 FHIR,https://www.sciencedirect.com/science/article/pii/S0164121224001389
+10.1016/j.jss.2024.112107,ReenRepair: Automatic and semantic equivalent repair of reentrancy in smart contracts,https://www.sciencedirect.com/science/article/pii/S0164121224001523
+10.1016/j.jss.2024.112101,Do code reviews lead to fewer code smells?,https://www.sciencedirect.com/science/article/pii/S0164121224001468
+10.1016/j.jss.2024.112088,When the dragons defeat the knight: Basilisk an architectural pattern for platform and language independent development,https://www.sciencedirect.com/science/article/pii/S016412122400133X
+10.1016/j.jss.2024.112092,EFACT: An External Function Auto-Completion Tool to strengthen static binary lifting,https://www.sciencedirect.com/science/article/pii/S0164121224001377
+10.1016/j.jss.2024.112091,Quantum circuit optimization of an integer divider,https://www.sciencedirect.com/science/article/pii/S0164121224001365
+10.1016/j.jss.2024.112090,Distribution-aware fairness test generation,https://www.sciencedirect.com/science/article/pii/S0164121224001353
+10.1016/j.jss.2024.112089,What is discussed about Flutter on Stack Overflow (SO) question-and-answer (Q&A) website: An empirical study,https://www.sciencedirect.com/science/article/pii/S0164121224001341
+10.1016/j.jss.2024.112087,Beyond code: Is there a difference between comments in visual and textual languages?,https://www.sciencedirect.com/science/article/pii/S0164121224001328
+10.1016/j.jss.2024.112065,Code search engines for the next generation,https://www.sciencedirect.com/science/article/pii/S0164121224001109
+10.1016/j.jss.2024.112085,FragQC: An efficient quantum error reduction technique using quantum circuit fragmentation,https://www.sciencedirect.com/science/article/pii/S0164121224001304
+10.1016/j.jss.2024.112083,T5APR: Empowering automated program repair across languages through checkpoint ensemble,https://www.sciencedirect.com/science/article/pii/S0164121224001286
+10.1016/j.jss.2024.112070,Detecting semantic conflicts with unit tests,https://www.sciencedirect.com/science/article/pii/S0164121224001158
+10.1016/j.jss.2024.112077,Cross-project concurrency bug prediction using domain-adversarial neural network,https://www.sciencedirect.com/science/article/pii/S0164121224001225
+10.1016/j.jss.2024.112081,WASMICO: Micro-containers in microcontrollers with WebAssembly,https://www.sciencedirect.com/science/article/pii/S0164121224001262
+10.1016/j.jss.2024.112068,Grammar-based test suite construction using coverage-directed algorithms over LR-graphs,https://www.sciencedirect.com/science/article/pii/S0164121224001134
+10.1016/j.jss.2024.112084,ConflictBench: A benchmark to evaluate software merge tools,https://www.sciencedirect.com/science/article/pii/S0164121224001298
+10.1016/j.jss.2024.112067,Spectrum-based rule- and item-level localization of faults in context-free grammars,https://www.sciencedirect.com/science/article/pii/S0164121224001122
+10.1016/j.jss.2024.112082,Managing security evidence in safety-critical organizations,https://www.sciencedirect.com/science/article/pii/S0164121224001274
+10.1016/j.jss.2024.112069,Supporting meta-model-based language evolution and rapid prototyping with automated grammar transformation,https://www.sciencedirect.com/science/article/pii/S0164121224001146
+10.1016/j.jss.2024.112058,"GraalSP: Polyglot, efficient, and robust machine learning-based static profiler",https://www.sciencedirect.com/science/article/pii/S0164121224001031
+10.1016/j.jss.2024.112061,qSOA®: Dynamic integration for hybrid quantum/Classical software systems,https://www.sciencedirect.com/science/article/pii/S0164121224001067
+10.1016/j.jss.2024.112060,Advancing modern code review effectiveness through human error mechanisms,https://www.sciencedirect.com/science/article/pii/S0164121224001055
+10.1016/j.jss.2024.112066,Context-aware code generation with synchronous bidirectional decoder,https://www.sciencedirect.com/science/article/pii/S0164121224001110
+10.1016/j.jss.2024.112055,An empirical investigation on the competences and roles of practitioners in Microservices-based Architectures,https://www.sciencedirect.com/science/article/pii/S0164121224001006
+10.1016/j.jss.2024.112036,Goal-conflict identification based on local search and fast boundary-condition verification based on incremental satisfiability filter,https://www.sciencedirect.com/science/article/pii/S0164121224000797
+10.1016/j.jss.2024.112042,Collection skeletons: Declarative abstractions for data collections,https://www.sciencedirect.com/science/article/pii/S0164121224000852
+10.1016/j.jss.2024.112056,The never-ending story–How companies transition to and sustain continuous software engineering practices,https://www.sciencedirect.com/science/article/pii/S0164121224001018
+10.1016/j.jss.2024.112040,How to effectively mine app reviews concerning software ecosystem? A survey of review characteristics,https://www.sciencedirect.com/science/article/pii/S0164121224000839
+10.1016/j.jss.2024.112054,Examining the effect of software professionals’ personality & additional capabilities on agile teams’ climate,https://www.sciencedirect.com/science/article/pii/S0164121224000992
+10.1016/j.jss.2024.112020,A case study on the development of the German Corona-Warn-App,https://www.sciencedirect.com/science/article/pii/S0164121224000633
+10.1016/j.jss.2024.112029,Data visualization guidance using a software product line approach,https://www.sciencedirect.com/science/article/pii/S0164121224000724
+10.1016/j.jss.2024.112033,A study on creating energy efficient cloud-connected user applications using the RMVRVM paradigm,https://www.sciencedirect.com/science/article/pii/S0164121224000761
+10.1016/j.jss.2024.112035,Local features: Enhancing variability modeling in software product lines,https://www.sciencedirect.com/science/article/pii/S0164121224000785
+10.1016/j.jss.2024.112041,Modeling microservice architectures,https://www.sciencedirect.com/science/article/pii/S0164121224000840
+10.1016/j.jss.2024.112030,Investigating effectiveness and compliance to DevOps policies and practices for managing productivity and quality variability,https://www.sciencedirect.com/science/article/pii/S0164121224000736
+10.1016/j.jss.2024.112034,ACCESS: Assurance Case Centric Engineering of Safety–critical Systems,https://www.sciencedirect.com/science/article/pii/S0164121224000773
+10.1016/j.jss.2024.112037,PASDA: A partition-based semantic differencing approach with best effort classification of undecided cases,https://www.sciencedirect.com/science/article/pii/S0164121224000803
+10.1016/j.jss.2024.112028,Custom static analysis to enhance insight into the usage of in-house libraries,https://www.sciencedirect.com/science/article/pii/S0164121224000712
+10.1016/j.jss.2024.112039,A vulnerability severity prediction method based on bimodal data and multi-task learning,https://www.sciencedirect.com/science/article/pii/S0164121224000827
+10.1016/j.jss.2024.112032,Research artifacts in software engineering publications: Status and trends,https://www.sciencedirect.com/science/article/pii/S016412122400075X
+10.1016/j.jss.2024.111971,Promoting open science in test-driven software experiments,https://www.sciencedirect.com/science/article/pii/S0164121224000141
+10.1016/j.jss.2024.112017,Semantic-guided fuzzing for virtual testing of autonomous driving systems,https://www.sciencedirect.com/science/article/pii/S0164121224000608
+10.1016/j.jss.2024.112018,Exploring the REIT architecture for requirements elicitation interview training with robotic and virtual tutors,https://www.sciencedirect.com/science/article/pii/S016412122400061X
+10.1016/j.jss.2024.112016,Multi-granularity coverage criteria for deep reinforcement learning systems,https://www.sciencedirect.com/science/article/pii/S0164121224000591
+10.1016/j.jss.2024.112015,Unveiling Faulty User Sequences: A Model-Based Approach to Test Three-Tier Software Architectures,https://www.sciencedirect.com/science/article/pii/S016412122400058X
+10.1016/j.jss.2024.112014,Code-centric learning-based just-in-time vulnerability detection,https://www.sciencedirect.com/science/article/pii/S0164121224000578
+10.1016/j.jss.2024.112006,★piler: Compilers in search of compilations,https://www.sciencedirect.com/science/article/pii/S0164121224000499
+10.1016/j.jss.2024.112012,Supporting reusable model migration with Edelta,https://www.sciencedirect.com/science/article/pii/S0164121224000554
+10.1016/j.jss.2024.112003,The impact of hard and easy negative training data on vulnerability prediction performance,https://www.sciencedirect.com/science/article/pii/S0164121224000463
+10.1016/j.jss.2024.112007,"Variability modeling of products, processes, and resources in cyber–physical production systems engineering",https://www.sciencedirect.com/science/article/pii/S0164121224000505
+10.1016/j.jss.2024.112013,How can feature usage be tracked across product variants? Implicit Feedback in Software Product Lines,https://www.sciencedirect.com/science/article/pii/S0164121224000566
+10.1016/j.jss.2024.111975,Zipper-based embedding of strategic attribute grammars,https://www.sciencedirect.com/science/article/pii/S0164121224000189
+10.1016/j.jss.2024.112008,A cloud-based data processing and visualization pipeline for the fibre roll-out in Germany,https://www.sciencedirect.com/science/article/pii/S0164121224000517
+10.1016/j.jss.2024.112009,Translating meaning representations to behavioural interface specifications,https://www.sciencedirect.com/science/article/pii/S0164121224000529
+10.1016/j.jss.2024.112011,A/B testing: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S0164121224000542
+10.1016/j.jss.2024.112002,Few-shot code translation via task-adapted prompt learning,https://www.sciencedirect.com/science/article/pii/S0164121224000451
+10.1016/j.jss.2024.112005,Test case information extraction from requirements specifications using NLP-based unified boilerplate approach,https://www.sciencedirect.com/science/article/pii/S0164121224000487
+10.1016/j.jss.2024.112004,Fast state transfer for updates and live migration of industrial controller runtimes in container orchestration systems,https://www.sciencedirect.com/science/article/pii/S0164121224000475
+10.1016/j.jss.2024.111972,Survey of annotation generators for deductive verifiers,https://www.sciencedirect.com/science/article/pii/S0164121224000153
+10.1016/j.jss.2024.111988,Emerging technologies in higher education assessment and feedback practices: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S0164121224000311
+10.1016/j.jss.2024.112000,"Equivalence, identity, and unitarity checking in black-box testing of quantum programs",https://www.sciencedirect.com/science/article/pii/S0164121224000438
+10.1016/j.jss.2024.112001,Testing concolic execution through consistency checks,https://www.sciencedirect.com/science/article/pii/S016412122400044X
+10.1016/j.jss.2024.111990,Addressing combinatorial experiments and scarcity of subjects by provably orthogonal and crossover experimental designs,https://www.sciencedirect.com/science/article/pii/S0164121224000335
+10.1016/j.jss.2024.111989,Design for dependability — State of the art and trends,https://www.sciencedirect.com/science/article/pii/S0164121224000323
+10.1016/j.jss.2024.111991,Barriers to device longevity and reuse: A vintage device empirical study,https://www.sciencedirect.com/science/article/pii/S0164121224000347
+10.1016/j.jss.2024.111980,Property probes: Live exploration of program analysis results,https://www.sciencedirect.com/science/article/pii/S0164121224000232
+10.1016/j.jss.2024.111987,DeepCover: Advancing RNN test coverage and online error prediction using state machine extraction,https://www.sciencedirect.com/science/article/pii/S016412122400030X
+10.1016/j.jss.2024.111981,Extracting goal models from natural language requirement specifications,https://www.sciencedirect.com/science/article/pii/S0164121224000244
+10.1016/j.jss.2024.111979,iCoLa+: An extensible meta-language with support for exploratory language development,https://www.sciencedirect.com/science/article/pii/S0164121224000220
+10.1016/j.jss.2024.111973,Deriving modernity signatures of codebases with static analysis,https://www.sciencedirect.com/science/article/pii/S0164121224000165
+10.1016/j.jss.2024.111982,RRGcode: Deep hierarchical search-based code generation,https://www.sciencedirect.com/science/article/pii/S0164121224000256
+10.1016/j.jss.2024.111966,Shedding light on the dark side – A systematic literature review of the issues in agile software development methodology use,https://www.sciencedirect.com/science/article/pii/S0164121224000098
+10.1016/j.jss.2024.111978,Sustainability competencies and skills in software engineering: An industry perspective,https://www.sciencedirect.com/science/article/pii/S0164121224000219
+10.1016/j.jss.2024.111983,White-box validation of quantitative product lines by statistical model checking and process mining,https://www.sciencedirect.com/science/article/pii/S0164121224000268
+10.1016/j.jss.2024.111977,A language-parametric test coverage framework for executable domain-specific languages,https://www.sciencedirect.com/science/article/pii/S0164121224000207
+10.1016/j.jss.2024.111986,A data-driven active learning approach to reusing ML solutions in scientific applications,https://www.sciencedirect.com/science/article/pii/S0164121224000293
+10.1016/j.jss.2024.111984,JITGNN: A deep graph neural network framework for Just-In-Time bug prediction,https://www.sciencedirect.com/science/article/pii/S016412122400027X
+10.1016/j.jss.2024.111969,Variability debt in opportunistic reuse: A multi-project field study,https://www.sciencedirect.com/science/article/pii/S0164121224000128
+10.1016/j.jss.2024.111974,API usage templates via structural generalization,https://www.sciencedirect.com/science/article/pii/S0164121224000177
+10.1016/j.jss.2024.111963,Coverage-guided fuzzing for deep reinforcement learning systems,https://www.sciencedirect.com/science/article/pii/S0164121224000062
+10.1016/j.jss.2024.111976,The eXchange Calculus (XC): A functional programming language design for distributed collective systems,https://www.sciencedirect.com/science/article/pii/S0164121224000190
+10.1016/j.jss.2024.111968,On the effectiveness of developer features in code smell prioritization: A replication study,https://www.sciencedirect.com/science/article/pii/S0164121224000116
+10.1016/j.jss.2024.111961,An empirical assessment of different word embedding and deep learning models for bug assignment,https://www.sciencedirect.com/science/article/pii/S0164121224000049
+10.1016/j.jss.2023.111939,Field-sensitive program slicing,https://www.sciencedirect.com/science/article/pii/S0164121223003345
+10.1016/j.jss.2024.111962,Test data generation for covering mutation-based path using MGA for MPI program,https://www.sciencedirect.com/science/article/pii/S0164121224000050
+10.1016/j.jss.2024.111967,Analyzing the Tower of Babel with Kaiaulu,https://www.sciencedirect.com/science/article/pii/S0164121224000104
+10.1016/j.jss.2023.111938,Software product lines and features from the perspective of set theory with an application to feature location,https://www.sciencedirect.com/science/article/pii/S0164121223003333
+10.1016/j.jss.2024.111958,Modeling and safety analysis for collaborative safety-critical systems using hierarchical colored Petri nets,https://www.sciencedirect.com/science/article/pii/S0164121224000013
+10.1016/j.jss.2023.111949,Automatic testing of runtime enforcers with Test4Enforcers,https://www.sciencedirect.com/science/article/pii/S0164121223003448
+10.1016/j.jss.2023.111944,A survey of energy concerns for software engineering,https://www.sciencedirect.com/science/article/pii/S0164121223003394
+10.1016/j.jss.2024.111964,An empirical study of code reuse between GitHub and stack overflow during software development,https://www.sciencedirect.com/science/article/pii/S0164121224000074
+10.1016/j.jss.2023.111941,On the impact of multiple source code representations on software engineering tasks — An empirical study,https://www.sciencedirect.com/science/article/pii/S0164121223003369
+10.1016/j.jss.2024.111959,Delivering computing module for the large part-time software development class from pre- to post-pandemic: An online learning experience,https://www.sciencedirect.com/science/article/pii/S0164121224000025
+10.1016/j.jss.2024.111960,Flexible control flow graph alignment for delivering data-driven feedback to novice programming learners,https://www.sciencedirect.com/science/article/pii/S0164121224000037
+10.1016/j.jss.2023.111948,Query-oriented two-stage attention-based model for code search,https://www.sciencedirect.com/science/article/pii/S0164121223003436
+10.1016/j.jss.2023.111946,Thriving in the era of hybrid work: Raising cybersecurity awareness using serious games in industry trainings,https://www.sciencedirect.com/science/article/pii/S0164121223003412
+10.1016/j.jss.2023.111945,Choosing the right path for AI integration in engineering companies: A strategic guide,https://www.sciencedirect.com/science/article/pii/S0164121223003400
+10.1016/j.jss.2023.111947,Log statements generation via deep learning: Widening the support provided to developers,https://www.sciencedirect.com/science/article/pii/S0164121223003424
+10.1016/j.jss.2023.111936,ETune: Efficient configuration tuning for big-data software systems via configuration space reduction,https://www.sciencedirect.com/science/article/pii/S016412122300331X
+10.1016/j.jss.2023.111940,"Time, causality, and realizability: Engineering interactive, distributed software systems",https://www.sciencedirect.com/science/article/pii/S0164121223003357
+10.1016/j.jss.2023.111933,Do we need high-order mutation in fault-based Boolean-specification testing?,https://www.sciencedirect.com/science/article/pii/S016412122300328X
+10.1016/j.jss.2023.111917,ServiceAnomaly: An anomaly detection approach in microservices using distributed traces and profiling metrics,https://www.sciencedirect.com/science/article/pii/S0164121223003126
+10.1016/j.jss.2023.111919,Fine-grained smart contract vulnerability detection by heterogeneous code feature learning and automated dataset construction,https://www.sciencedirect.com/science/article/pii/S016412122300314X
+10.1016/j.jss.2023.111921,"A systematic literature review on Windows malware detection: Techniques, research issues, and future directions",https://www.sciencedirect.com/science/article/pii/S0164121223003163
+10.1016/j.jss.2023.111918,Extending the range of bugs that automated program repair can handle,https://www.sciencedirect.com/science/article/pii/S0164121223003138
+10.1016/j.jss.2023.111937,Exploring the relation between personality traits and agile team climate: Aggregating results from a twice replicated study in a telecom company,https://www.sciencedirect.com/science/article/pii/S0164121223003321
+10.1016/j.jss.2023.111928,Product lines of dataflows,https://www.sciencedirect.com/science/article/pii/S0164121223003230
+10.1016/j.jss.2023.111920,"Design, implementation, and validation of a benchmark generator for combinatorial interaction testing tools",https://www.sciencedirect.com/science/article/pii/S0164121223003151
+10.1016/j.jss.2023.111915,Feature causality,https://www.sciencedirect.com/science/article/pii/S0164121223003102
+10.1016/j.jss.2023.111910,MicroFog: A framework for scalable placement of microservices-based IoT applications in federated Fog environments,https://www.sciencedirect.com/science/article/pii/S0164121223003059
+10.1016/j.jss.2023.111904,The slow and the furious? Performance antipattern detection in Cyber–Physical Systems,https://www.sciencedirect.com/science/article/pii/S0164121223002996
+10.1016/j.jss.2023.111913,RSFIN: A Rule Search-based Fuzzy Inference Network for performance prediction of configurable software systems,https://www.sciencedirect.com/science/article/pii/S0164121223003084
+10.1016/j.jss.2023.111911,OneSpace: Detecting cross-language clones by learning a common embedding space,https://www.sciencedirect.com/science/article/pii/S0164121223003060
+10.1016/j.jss.2023.111900,Trace matrix optimization for fault localization,https://www.sciencedirect.com/science/article/pii/S0164121223002959
+10.1016/j.jss.2023.111914,Commit-time defect prediction using one-class classification,https://www.sciencedirect.com/science/article/pii/S0164121223003096
+10.1016/j.jss.2023.111912,Revealing code change propagation channels by evolution history mining,https://www.sciencedirect.com/science/article/pii/S0164121223003072
+10.1016/j.jss.2023.111901,Early analysis of requirements using NLP and Petri-nets,https://www.sciencedirect.com/science/article/pii/S0164121223002960
+10.1016/j.jss.2023.111905,Co-simulation at different levels of expertise with Maestro2,https://www.sciencedirect.com/science/article/pii/S016412122300300X
+10.1016/j.jss.2023.111903,Managing the changing understanding of benefits in software initiatives,https://www.sciencedirect.com/science/article/pii/S0164121223002984
+10.1016/j.jss.2023.111897,Localizing faults using verification technique,https://www.sciencedirect.com/science/article/pii/S0164121223002923
+10.1016/j.jss.2023.111896,Hierarchical features extraction and data reorganization for code search,https://www.sciencedirect.com/science/article/pii/S0164121223002911
+10.1016/j.jss.2023.111886,Valkyrie: Improving fuzzing performance through deterministic techniques,https://www.sciencedirect.com/science/article/pii/S0164121223002819
+10.1016/j.jss.2023.111884,A study on classifying Stack Overflow questions based on difficulty by utilizing contextual features,https://www.sciencedirect.com/science/article/pii/S0164121223002790
+10.1016/j.jss.2023.111881,Potential effectiveness and efficiency issues in usability evaluation within digital health: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S0164121223002765
+10.1016/j.jss.2023.111885,Performability evaluation of NoSQL-based storage systems,https://www.sciencedirect.com/science/article/pii/S0164121223002807
+10.1016/j.jss.2023.111899,"A Multi-vocal Literature Review on challenges and critical success factors of phishing education, training and awareness",https://www.sciencedirect.com/science/article/pii/S0164121223002947
+10.1016/j.jss.2023.111902,Detecting security vulnerabilities with vulnerability nets,https://www.sciencedirect.com/science/article/pii/S0164121223002972
+10.1016/j.jss.2023.111898,BERT based severity prediction of bug reports for the maintenance of mobile applications,https://www.sciencedirect.com/science/article/pii/S0164121223002935
+10.1016/j.jss.2023.111887,"Programming under the influence: On the effect of Heat, Noise, and Alcohol on novice programmers",https://www.sciencedirect.com/science/article/pii/S0164121223002820
+10.1016/j.jss.2023.111878,An Empirical Investigation Into the Influence of Software Communities’ Cultural and Geographical Dispersion on Productivity,https://www.sciencedirect.com/science/article/pii/S016412122300273X
+10.1016/j.jss.2023.111882,Ant-colony optimization for automating test model generation in model transformation testing,https://www.sciencedirect.com/science/article/pii/S0164121223002777
+10.1016/j.jss.2023.111883,Learning input-aware performance models of configurable systems: An empirical evaluation,https://www.sciencedirect.com/science/article/pii/S0164121223002789
+10.1016/j.jss.2023.111879,Benchmarking scalability of stream processing frameworks deployed as microservices in the cloud,https://www.sciencedirect.com/science/article/pii/S0164121223002741
+10.1016/j.jss.2023.111875,EsArCost: Estimating repair costs of software architecture erosion using slice technology,https://www.sciencedirect.com/science/article/pii/S0164121223002704
+10.1016/j.jss.2023.111872,Database management system performance comparisons: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S0164121223002674
+10.1016/j.jss.2023.111874,The effects of required security on software development effort,https://www.sciencedirect.com/science/article/pii/S0164121223002698
+10.1016/j.jss.2023.111873,Iterative framework based on multi-task learning for service recommendation,https://www.sciencedirect.com/science/article/pii/S0164121223002686
+10.1016/j.jss.2023.111876,Visualization of object-oriented software in a city metaphor: Comprehending the implemented variability and its technical debt,https://www.sciencedirect.com/science/article/pii/S0164121223002716
+10.1016/j.jss.2023.111860,"Architecting ML-enabled systems: Challenges, best practices, and design decisions",https://www.sciencedirect.com/science/article/pii/S0164121223002558
+10.1016/j.jss.2023.111880,SYNTONY: Potential-aware fuzzing with particle swarm optimization,https://www.sciencedirect.com/science/article/pii/S0164121223002753
+10.1016/j.jss.2023.111858,Towards an understanding of intra-defect associations: Implications for defect prediction,https://www.sciencedirect.com/science/article/pii/S0164121223002534
+10.1016/j.jss.2023.111856,Code semantic enrichment for deep code search,https://www.sciencedirect.com/science/article/pii/S0164121223002510
+10.1016/j.jss.2023.111868,COPS: An improved information retrieval-based bug localization technique using context-aware program simplification,https://www.sciencedirect.com/science/article/pii/S0164121223002637
+10.1016/j.jss.2023.111857,Automated functional and robustness testing of microservice architectures,https://www.sciencedirect.com/science/article/pii/S0164121223002522
+10.1016/j.jss.2023.111831,Learning to empathize with users through design thinking in hybrid mode: Insights from two educational case studies,https://www.sciencedirect.com/science/article/pii/S0164121223002261
+10.1016/j.jss.2023.111852,Incremental-concurrent fusion checking for efficient context consistency,https://www.sciencedirect.com/science/article/pii/S0164121223002479
+10.1016/j.jss.2023.111855,"Data pipeline quality: Influencing factors, root causes of data-related issues, and processing problem areas for developers",https://www.sciencedirect.com/science/article/pii/S0164121223002509
+10.1016/j.jss.2023.111834,Application Monitoring for bug reproduction in web-based applications,https://www.sciencedirect.com/science/article/pii/S0164121223002297
