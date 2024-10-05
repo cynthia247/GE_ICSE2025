@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the data from the CSV file
-df = pd.read_csv('2024.csv')
+df = pd.read_csv('2022.csv')
 
 # Forward fill the missing 'Paper Title' values
 df['Paper Title'] = df['Paper Title'].fillna(method='ffill')

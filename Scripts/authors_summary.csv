@@ -1,227 +1,118 @@
 Paper Title,Total Authors,Female Authors,lead?,local_Contribution?,national_collaboration?,International_collaboration?
-A-B Testing: A Systematic Literature Review,4,1,0,0,0,1
-A case study on the development of the German Corona-Warn-App,6,0,0,0,0,1
-ACCESS: Assurance Case Centric Engineering of Safety–critical Systems,10,1,0,0,0,1
-A cloud-based data processing and visualization pipeline for the fibre roll-out in Germany,6,0,0,0,1,0
-A conceptual and architectural characterization of antifragile systems,3,1,0,0,0,1
-Actionable light-weight process guidance,6,2,0,0,1,0
-Adaptive data quality scoring operations framework using drift-aware mechanism for industrial applications,3,0,0,0,0,1
-A data-driven active learning approach to reusing ML solutions in scientific applications,4,2,1,1,1,0
-Addressing combinatorial experiments and scarcity of subjects by provably orthogonal and crossover experimental designs,3,2,0,0,0,1
-Advancing modern code review effectiveness through human error mechanisms,2,0,0,0,0,1
-A framework for the design of fault-tolerant systems-of-systems,6,4,0,0,0,1
-A fuzzy logic-based quality model for identifying microservices with low maintainability,5,2,1,0,0,1
-A language-parametric test coverage framework for executable domain-specific languages,6,1,1,0,0,1
-AML: An accuracy metric model for effective evaluation of log parsing techniques,3,0,0,1,1,0
-"A Multi-vocal Literature Review on challenges and critical success factors of phishing education, training and awareness",5,2,0,0,1,0
-Analyzing the Tower of Babel with Kaiaulu,3,0,0,0,0,1
-An architecture for model-based and intelligent automation in DevOps,5,1,1,0,0,1
-An empirical assessment of different word embedding and deep learning models for bug assignment,6,2,0,0,0,1
-An Empirical Investigation Into the Influence of Software Communities’ Cultural and Geographical Dispersion on Productivity,7,2,0,0,0,1
-An empirical investigation on the competences and roles of practitioners in Microservices-based Architectures,3,1,0,0,0,1
-An empirical study of code reuse between GitHub and Stack Overflow during software development,5,0,0,0,1,0
-An empirical study on bug severity estimation using source code metrics and static analysis,5,1,0,0,1,0
-Ant-colony optimization for automating test model generation in model transformation testing,3,1,0,0,0,1
-Application Monitoring for bug reproduction in web-based applications,3,0,0,1,1,0
-Applying short text topic models to instant messaging communication of software developers,3,1,1,1,1,0
-"Architecting ML-enabled systems: Challenges, best practices, and design decisions",3,0,0,0,0,1
-Architectural support for software performance in continuous software engineering: A systematic mapping study,6,2,1,0,0,1
-Assessing gender bias in the software used in computer science and software engineering education,3,2,1,1,1,0
-A study on classifying Stack Overflow questions based on difficulty by utilizing contextual features,6,4,1,1,1,0
-A study on creating energy efficient cloud-connected user applications using the RMVRVM paradigm,3,0,0,0,1,0
-A survey on machine learning techniques applied to source code,7,3,0,0,0,1
-A Systematic Literature Review on Characteristics of the Front-End Phase of Agile Software Development Projects and Their Connections to Project Success,1,0,0,1,1,0
-"A systematic literature review on Windows malware detection: Techniques, research issues, and future directions",3,0,0,1,1,0
-Automated functional and robustness testing of microservice architectures,4,0,0,1,1,0
-Automated program repair for variability bugs in software product line systems,5,1,1,0,0,1
-Automatic testing of runtime enforcers with Test4Enforcers,3,1,0,1,1,0
-Automating the correctness assessment of AI-generated code for security contexts,5,1,0,1,1,0
-A vulnerability detection framework with enhanced graph feature learning,4,0,0,0,1,0
-A vulnerability severity prediction method based on bimodal data and multi-task learning,4,1,0,1,1,0
-Barriers to device longevity and reuse: A vintage device empirical study,2,1,0,1,1,0
-Benchmarking scalability of stream processing frameworks deployed as microservices in the cloud,2,0,0,0,0,1
-BERT based severity prediction of bug reports for the maintenance of mobile applications,4,0,0,0,0,1
-Beyond code: Is there a difference between comments in visual and textual languages?,4,1,0,0,0,1
-BIT: A template-based approach to incremental and bidirectional model-to-text transformation,2,0,0,0,1,0
-Bug priority change: An empirical study on Apache projects,6,3,0,0,1,0
-CfExplainer: Explainable just-in-time defect prediction based on counterfactuals,6,0,0,1,1,0
-Code-centric learning-based just-in-time vulnerability detection,6,1,0,1,1,0
-Code search engines for the next generation,2,0,0,1,1,0
-Collection skeletons: Declarative abstractions for data collections,4,0,0,0,0,1
-Commit-time defect prediction using one-class classification,4,0,0,0,0,1
-Confix: Combining node-level fix templates and masked language model for automatic program repair,8,0,0,0,0,1
-ConflictBench: A benchmark to evaluate software merge tools,2,1,0,1,1,0
-Context-aware code generation with synchronous bidirectional decoder,5,1,0,0,0,1
-Conversation in forums: How software forum posts discuss potential development insights,5,1,0,1,1,0
-Co-simulation at different levels of expertise with Maestro2,7,0,0,0,1,0
-Coverage-guided fuzzing for deep reinforcement learning systems,5,0,0,1,1,0
-Cross-project concurrency bug prediction using domain-adversarial neural network,6,0,0,0,0,1
-CSVD-TF: Cross-project software vulnerability detection with TrAdaBoost by fusing expert metrics and semantic metrics,6,0,0,1,1,0
-Database Management System Performance Comparisons,0,0,0,0,0,0
-"Data pipeline quality: Influencing factors, root causes of data-related issues, and processing problem areas for developers",4,1,0,0,0,1
-Data preparation for Deep Learning based Code Smell Detection: A systematic literature review,8,0,0,0,0,1
-DeepCover: Advancing RNN test coverage and online error prediction using state machine extraction,2,1,0,1,1,0
-Deep semi-supervised learning for recovering traceability links between issues and commits,4,0,0,0,0,1
-Delivering computing module for the large part-time software development class from pre- to post-pandemic: An online learning experience,3,2,1,0,0,1
-Deriving modernity signatures of codebases...,5,0,0,0,1,0
-Design for Dependability — State of the Art and Trends,11,0,0,0,0,1
-Detecting security vulnerabilities with vulnerability nets,4,1,0,1,1,0
-"Design, implementation, and validation of a benchmark generator for combinatorial interaction testing tools",2,0,0,1,1,0
-Detecting semantic conflicts with unit tests,8,1,0,0,0,1
-Detection of backdoor attacks using targeted universal adversarial perturbations for deep neural networks,5,0,0,0,1,0
-Distribution-aware fairness test generation,4,0,0,0,0,1
-Do code reviews lead to fewer code smells?,3,1,0,0,0,1
-Do We Need High-Order Mutation in Fault-Based Boolean-Specification Testing?,4,0,0,0,0,1
-Early analysis of requirements using NLP and Petri-nets,2,0,0,0,0,1
-Eclipse Open SmartCLIDE: An end-to-end framework for facilitating service reuse in cloud development,8,2,0,0,0,1
-Edge to Cloud Tools: A Multivocal Literature Review,6,1,0,0,0,1
-EFACT: An External Function Auto-Completion Tool to strengthen static binary lifting,5,0,0,1,1,0
-Emerging technologies in higher education assessment and feedback practices: A systematic literature review,3,2,1,1,1,0
-End-to-end log statement generation at block-level,6,3,1,0,1,0
-Enhancing empirical software performance engineering research with kernel-level events: A comprehensive system tracing approach,2,0,0,1,1,0
-Enhancing understanding and addressing gender bias in IT/SE job advertisements,3,2,1,0,1,0
-"Equivalence, identity, and unitarity checking in black-box testing of quantum programs",2,0,0,0,0,1
-EsArCost: Estimating repair costs of software architecture erosion using slice technology,2,0,0,0,1,0
-ETune: Efficient configuration tuning for big-data software systems via configuration space reduction,4,1,0,1,1,0
-EvaluateXAI: A framework to evaluate the reliability and consistency of rule-based XAI techniques for software analytics tasks,2,0,0,0,0,1
-"Evaluating intrusion detection for microservice applications: Benchmark, dataset, and case studies",2,0,0,0,0,1
-Evaluating software security maturity using OWASP SAMM: Different approaches and stakeholders perceptions,4,0,0,0,0,1
-Evaluation of Time-based Virtual Machine Migration as Moving Target Defense Against Host-Based Attacks,3,0,0,0,0,1
-Evaluation of visual property specification languages based on practical model-checking experience,3,0,0,0,0,1
-Evolution patterns of software-architecture smells: An empirical study of intra- and inter-version smells,3,0,0,0,0,1
-Examining the effect of software professionals’ personality & additional capabilities on agile teams’ climate,2,1,0,0,0,1
-Experimental evaluation of architectural software performance design patterns in microservices,3,2,0,0,0,1
-Exploring the REIT architecture for requirements elicitation interview training with robotic and virtual tutors,2,1,0,0,0,1
-Exploring the relation between personality traits and agile team climate: Aggregating results from a twice replicated study in a telecom company,2,1,0,0,0,1
-Exploring the trade-off between computational power and energy efficiency,5,2,0,0,0,1
-Extending the range of bugs that automated program repair can handle,3,0,0,0,0,1
-Extracting goal models from natural language requirement specifications,4,0,0,0,0,1
-Fast state transfer for updates and live migration of industrial controller runtimes in container orchestration systems,3,0,0,0,0,1
-Feature causality,4,1,0,0,0,1
-Feature-oriented test case selection and prioritization during the evolution of highly-configurable systems,3,1,0,0,0,1
-Few-shot code translation via task-adapted prompt learning,5,1,0,0,0,1
-Field-sensitive program slicing,4,0,0,0,0,1
-Fine-grained smart contract vulnerability detection by heterogeneous code feature learning and automated dataset construction,5,0,0,0,0,1
-Flexible and reversible conversion between extensible records and overloading constraints for ML,1,0,0,1,1,0
-Flexible control flow graph alignment for delivering data-driven feedback to novice programming learners,3,1,0,0,0,1
-FragQC: An efficient quantum error reduction technique using quantum circuit fragmentation,5,1,0,0,0,1
-GBSR: Graph-based suspiciousness refinement for improving fault localization,6,1,0,0,0,1
-GDPR compliance via software evolution: Weaving security controls in software design,3,1,0,0,0,1
-Goal-conflict identification based on local search and fast boundary-condition verification based on incremental satisfiability filter,6,0,0,0,0,1
-GPTSniffer: A CodeBERT-based classifier to detect source code written by ChatGPT,6,0,0,0,0,1
-"GraalSP: Polyglot, efficient, and robust machine learning-based static profiler",4,1,0,0,0,1
-GRACE: Empowering LLM-based software vulnerability detection with graph structure and in-context learning,5,0,0,0,0,1
-Grammar-based test suite construction using coverage-directed algorithms over LR-graphs,2,0,0,0,0,1
-Harmonizing DevOps taxonomies — A grounded theory study,7,1,0,0,0,1
-Hierarchical features extraction and data reorganization for code search,4,2,0,0,0,1
-How can feature usage be tracked across product variants? Implicit Feedback in Software Product Lines,3,0,0,0,0,1
-How to effectively mine app reviews concerning software ecosystem? A survey of review characteristics,5,0,0,0,0,1
-Hybrid quantum architecture for smart city security,5,0,0,0,0,1
-𝑖𝐶𝑜𝐿𝑎+ : An extensible meta-language with support for exploratory language development,2,0,0,0,0,1
-Identifying concerns when specifying machine learning-enabled systems: A perspective-based approach,4,0,0,0,0,1
-Identifying the primary dimensions of DevSecOps: A multi-vocal literature review,3,0,0,0,0,1
-Impermanent identifiers: Enhanced source code comprehension and refactoring,6,1,0,0,0,1
-Improve cross-project just-in-time defect prediction with dynamic transfer learning,3,0,0,0,0,1
-Incivility detection in open source code review and issue discussions,3,1,0,0,0,1
-Incremental-concurrent fusion checking for efficient context consistency,5,1,0,0,0,1
-Investigating effectiveness and compliance to DevOps policies and practices for managing productivity and quality variability,3,1,0,0,0,1
-Investigating the robustness of locators in template-based Web application testing using a GUI change classification model,3,1,0,0,0,1
-Iterative framework based on multi-task learning for service recommendation,5,1,0,0,0,1
-JITGNN: A deep graph neural network framework for Just-In-Time bug prediction,2,1,0,0,0,1
-Learning input-aware performance models of configurable systems: An empirical evaluation,7,0,0,0,0,1
-Learning to empathize with users through design thinking in hybrid mode: Insights from two educational case studies,2,1,0,0,0,1
-Local features: Enhancing variability modeling in software product lines,5,1,0,0,0,1
-Log statements generation via deep learning: Widening the support provided to developers,4,1,0,0,0,1
-Long-term software fault prediction with wavelet shrinkage estimation,3,0,0,0,0,1
-L OP-ART: A linear-time adaptive random testing algorithm for object-oriented programs,6,3,0,0,0,1
-Managing the changing understanding of benefits in software initiatives,2,0,0,0,0,1
-MicroFog: A framework for scalable placement of microservices-based IoT applications in federated Fog environments,3,0,0,0,0,1
-MicroIRC: Instance-level Root Cause Localization for Microservice Systems,7,0,0,0,0,1
-Microservice API Evolution in Practice: A Study on Strategies and Challenges,4,0,0,0,0,1
-Mining for cost awareness in the infrastructure as code artifacts of cloud-based applications: An exploratory study,5,0,0,0,0,1
-Modeling and safety analysis for collaborative safety-critical systems using hierarchical colored Petri nets,3,0,0,0,0,1
-Modeling microservice architectures,3,0,0,0,0,1
-Monitoring tools for DevOps and microservices: A systematic grey literature review,17,1,0,0,0,1
-Multi-granularity coverage criteria for deep reinforcement learning systems,3,2,1,1,1,0
-Not all requirements prioritization criteria are equal at all times: A quantitative analysis,2,0,0,0,0,1
-On the effectiveness of developer features in code smell prioritization: A replication study,6,1,0,1,1,0
-On the effectiveness of hybrid pooling in mixup-based graph learning for language processing,8,0,0,0,0,1
-On the impact of multiple source code representations on software engineering tasks—An empirical study,4,0,0,1,1,0
-OneSpace: Detecting cross-language clones by learning a common embedding space,2,0,0,0,0,1
-Pandemic startup software engineering: An experience report on the development of a COVID-19 certificate verification system,4,0,0,0,0,1
-PASDA: A partition-based semantic differencing approach with best effort classification of undecided cases,3,0,0,0,1,0
-Performability evaluation of NoSQL-based storage systems,5,0,0,0,1,0
-"Software aging, prediction models, TTAF, machine learning, rejuvenation",6,0,0,1,0,1
-Potential effectiveness and efficiency issues in usability evaluation within digital health: A systematic literature review,2,0,0,1,1,0
-"Processes, methods, and tools in model-based engineering—A qualitative multiple-case study",3,0,0,0,0,1
-Program dependence net and on-demand slicing for property verification of concurrent system and software,4,0,0,1,1,0
-"Programming under the influence: On the effect of Heat, Noise, and Alcohol on novice programmers",3,1,0,1,1,0
-Project-specific code summarization with in-context learning,4,0,0,0,0,1
-Promoting open science in test-driven software experiments,2,0,0,1,1,0
-Property probes: Live exploration of program analysis results,4,1,0,0,1,0
-qSOA®: Dynamic integration for hybrid quantum/Classical software systems,3,0,0,0,1,0
-Quantum circuit optimization of an integer divider,3,0,0,1,1,0
-Query-oriented two-stage attention-based model for code search,4,2,1,0,0,1
-Real-Time rejuvenation scheduling for cloud systems with virtualized software spares,3,0,0,1,1,0
-ReenRepair: Automatic and semantic equivalent repair of reentrancy in smart contracts,7,1,0,0,0,1
-Refactoring react-based Web apps,3,0,0,0,1,0
-Reliable proactive adaptation via prediction fusion and extended stochastic model predictive control,4,0,0,0,0,1
-"Reproducibility of issues reported in stack overflow questions: Challenges, impact & estimation",2,1,0,1,1,0
-"Requirements quality research artifacts: Recovery, analysis, and management guideline",6,0,0,0,0,1
-Research artifacts for human-oriented experiments in software engineering: An ACM badges-driven structure proposal,6,3,1,0,0,1
-Research artifacts in software engineering publications: Status and trends,8,0,0,0,0,1
-Revealing code change propagation channels by evolution history mining,5,0,0,1,1,0
-RRGcode: Deep hierarchical search-based code generation,4,2,1,0,1,0
-RSFIN: A Rule Search-based Fuzzy Inference Network for performance prediction of configurable software systems,5,0,0,0,0,1
-Runtime verification on abstract finite state models,3,1,1,0,0,1
-Semantic interoperability for an AI-based applications platform for smart hospitals using HL7 FHIR,9,2,0,0,1,0
-ServiceAnomaly: An anomaly detection approach in microservices using distributed traces and profiling metrics,4,1,1,0,1,0
-Set evolution based test data generation for killing stubborn mutants,5,2,0,0,0,1
-SGT: Aging-related bug prediction via semantic feature learning based on Graph-Transformer,7,0,0,0,0,1
-Shedding light on the dark side – A systematic literature review of the issues in agile software development methodology use,1,0,0,1,1,0
-"Software engineering practices for machine learning—Adoption, effects, and team assessment",4,0,0,0,0,1
-Software modernization powered by dynamic language product lines,2,0,0,1,1,0
-Software product lines and features from the perspective of set theory with an application to feature location,2,0,0,0,1,0
-Spectrum-based rule- and item-level localization of faults in context-free grammars,2,0,0,1,1,0
-Supporting meta-model-based language evolution and rapid prototyping with automated grammar transformation,5,1,0,0,0,1
-Supporting reusable model migration with Edelta,4,0,0,0,1,0
-Survey of annotation generators for deductive verifiers,2,2,1,1,1,0
-"SynthoMinds: Bridging human programming intuition with retrieval, analogy, and reasoning in program synthesis",3,1,1,0,1,0
-SYNTONY: Potential-aware fuzzing with particle swarm optimization,7,0,0,0,1,0
-T5APR: Empowering automated program repair across languages through checkpoint ensemble,3,0,0,1,1,0
-"Technical debt in AI-enabled systems: On the prevalence, severity, impact, and management strategies for code and architecture",7,2,0,0,0,1
-Temporal isolation assessment in virtualized safety-critical mixed-criticality systems: A case study on Xen hypervisor✩,3,0,0,1,1,0
-Test case information extraction from requirements specifications using NLP-based unified boilerplate approach,7,4,0,1,1,0
-Test data generation for covering mutation-based path using MGA for MPI program,6,2,1,0,1,0
-Testing concolic execution through consistency checks,2,0,0,0,1,0
-The effects of required security on software development effort,3,1,1,0,1,0
-The eXchange Calculus (XC): A functional programming language design for distributed collective systems,5,0,0,0,0,1
-The impact of hard and easy negative training data on vulnerability prediction performance,4,1,0,0,0,1
-The influence of the city metaphor and its derivates in software visualization,4,0,0,0,1,0
-The never-ending story–How companies transition to and sustain continuous software engineering practices,2,1,0,0,1,0
-The slow and the furious? Performance antipattern detection in Cyber–Physical Systems,4,1,1,0,1,0
-Thriving in the era of hybrid work: Raising cybersecurity awareness using serious games in industry trainings,4,3,1,0,0,1
-"Time, causality, and realizability: Engineering interactive, distributed software systems",1,0,0,1,1,0
-Time to separate from StackOverflow and match with ChatGPT for encryption,2,0,0,1,1,0
-Towards a common data-driven culture: A longitudinal study of the tensions and emerging solutions involved in becoming data-driven in a large public sector organization,3,1,1,1,1,0
-Towards an understanding of intra-defect associations: Implications for defect prediction,6,0,0,0,1,0
-Trace matrix optimization for fault localization,1,0,0,1,1,0
-Translating meaning representations to behavioural interface specifications,2,0,0,1,1,0
-Uncovering gender gap in academia: A comprehensive analysis within the software engineering community,5,2,0,1,1,0
-Understanding participation and corporatization in service of diversity in free/libre and open source software development projects,2,1,1,0,1,0
-Understanding Virtual Onboarding Dynamics and Developer Turnover Intention in the Era of Pandemic,3,1,0,0,0,1
-Unlocking inclusive education: A quality assessment of software design in applications for children with autism,3,1,1,1,1,0
-Unveiling Faulty User Sequences: A Model-Based Approach to Test Three-Tier Software Architectures,3,0,0,1,1,0
-UVLHub: A feature model data repository using UVL and open science principles,5,0,0,0,0,1
-Valkyrie: Improving fuzzing performance through deterministic techniques,4,0,0,0,0,1
-Variability debt in opportunistic reuse: A multi-project field study,5,2,1,0,0,1
-Variability management and software product line knowledge in software companies,5,2,0,0,0,1
-"Variability modeling of products, processes, and resources in cyber–physical production systems engineering",7,1,0,0,0,1
-Version control of speaker recognition systems,2,0,0,1,1,0
-Visualization of object-oriented software in a city metaphor: Comprehending the implemented variability and its technical debt,3,1,0,1,1,0
-Vulnerability detection techniques for smart contracts: A systematic literature review,3,1,0,1,1,0
-WASMICO: Micro-containers in microcontrollers with WebAssembly,4,0,0,0,1,0
-What is discussed about Flutter on Stack Overflow (SO) question-and-answer (Q&A) website: An empirical study,2,1,0,1,1,0
-When the dragons defeat the knight: Basilisk an architectural pattern for platform and language independent development,4,0,0,0,1,0
-White-box validation of quantitative product lines by statistical model checking and process mining,5,1,0,0,0,1
-Zipper-based embedding of strategic attribute grammars,4,0,0,0,0,1
+A case study on the stability of performance tests for serverless applications,7,0,0,0,0,1
+A comprehensive empirical investigation on failure clustering in parallel debugging,5,0,0,1,1,0
+A novel approach for Software Architecture Product Line Engineering,4,0,0,0,0,1
+A qualitative analysis of themes in instant messaging communication of software developers,3,1,1,1,1,0
+A sampling-based online Co-Location-Resistant Virtual Machine placement strategy,3,1,1,0,0,1
+A software reliability growth model for imperfect debugging,3,1,0,0,1,0
+A survey of software architectural change detection and categorization techniques,4,1,0,1,1,0
+A systematic literature review on benchmarks for evaluating debugging approaches,2,1,0,1,1,0
+A user survey on the adoption of crowd-based software engineering instructional screencasts by the new generation of software developers,3,1,1,0,1,0
+Adopting threat modelling in agile software development projects,4,3,1,0,0,1
+Agile methods used by traditional logistics companies and logistics start-ups: a systematic literature review,2,1,1,0,1,0
+An architecture for mission coordination of heterogeneous robots,6,1,0,0,0,1
+An automated extract method refactoring approach to correct the long method code smell,3,1,1,1,1,0
+An efficient heuristic algorithm for software module clustering optimization,3,0,0,1,1,0
+An empirical characterization of software bugs in open-source Cyber–Physical Systems,4,2,1,0,0,1
+An empirical comparison of four Java-based regression test selection techniques,3,1,1,0,1,0
+An empirical study on the challenges that developers encounter when developing Apache Spark applications,4,0,0,0,1,0
+An integrated tool set for verifying CafeOBJ specifications,2,0,0,0,0,1
+Antipatterns in software classification taxonomies,2,0,0,1,1,0
+Architectural conformance checking for KDM-represented systems✩,6,0,0,0,0,1
+Architecture evaluation in continuous development,8,0,0,0,0,1
+ARTe: Providing real-time multitasking to Arduino,8,0,0,0,0,1
+Assessing the linguistic quality of REST APIs for IoT applications,4,1,0,0,1,0
+Automated reverse engineering of role-based access control policies of web applications,5,0,0,0,0,1
+Automatic development of requirement linking matrix based on semantic similarity for robust software development,3,0,0,0,1,0
+Automatically recognizing the semantic elements from UML class diagram images,4,1,0,0,0,1
+Can we trust tests to automate dependency updates? A case study of Java Projects,2,0,0,1,1,0
+Cataloging dependency injection anti-patterns in software systems ✩,4,0,0,0,0,1
+Changes in perceived productivity of software engineers during COVID-19 pandemic: The voice of evidence,6,4,1,0,0,1
+CIT-daily: A combinatorial interaction testing-based daily build process,6,2,0,1,1,0
+Classifying crowdsourced mobile test reports with image features: An empirical study,7,1,1,1,1,0
+Code-quality evaluation scheme for assessment of student contributions to programming projects,3,0,0,0,0,1
+Conformance assessment of Architectural Design Decisions on API endpoint designs derived from domain models✩,2,1,1,1,1,0
+CONSERVE: A framework for the selection of techniques for monitoring containers security,7,0,0,0,0,1
+Considerations and challenges for the adoption of open source components in software-intensive businesses,9,0,0,0,1,0
+Continuous software security through security prioritisation meetings,2,2,1,1,1,0
+Creativity Triggers: Extension and empirical evaluation of their effectiveness during requirements elicitation,4,0,0,0,0,1
+Data Augmentation by Program Transformation✩,3,0,0,1,1,0
+Data management for production quality deep learning models: Challenges and solutions,5,2,1,0,1,0
+Deep learning application on code clone detection: A review of current knowledge,5,2,1,1,1,0
+Developers’ need for the rationale of code commits: An in-breadth and in-depth study,3,1,1,0,0,1
+EdgeWorkflow: One click to test and deploy your workflow applications to the edge,6,0,0,0,0,1
+Emotimonitor: A Trello power-up to capture and monitor emotions of Agile teams✩,7,2,0,1,1,0
+Estimating the potential of program repair search spaces with commit analysis,5,1,0,0,0,1
+Evaluating the layout quality of UML class diagrams using machine learning,7,0,0,0,0,1
+Exploiting gated graph neural network for detecting and explaining self-admitted technical debts,6,1,1,0,0,1
+Exploring factors and metrics to select open source software components for integration: An empirical study,4,1,0,1,1,0
+Exploring multi-programming-language commits and their impacts on software quality: An empirical study on Apache projects,6,2,0,0,1,0
+Factors affecting Agile adoption: An industry research study of the mobile app sector in Saudi Arabia,2,1,0,0,0,1
+Fault localization using function call frequencies,4,0,0,1,1,0
+Fuzzing with automatically controlled interleavings to detect concurrency bugs,3,0,0,0,0,1
+"GitHub repositories with links to academic papers: Public access, traceability, and evolution✩",7,2,1,0,0,1
+Graph4Web: A relation-aware graph attention network for web service classification,8,0,0,0,0,1
+GT-SimNet: Improving code automatic summarization via multi-modal similarity networks,6,2,0,1,1,0
+Hierarchical semantic-aware neural code representation✩,4,1,0,0,0,1
+How are framework code samples maintained and used by developers? The case of Android and Spring Boot,3,0,0,0,1,0
+How has design thinking being used and integrated into software development activities? A systematic mapping,4,2,0,0,1,0
+How secondary school girls perceive Computational Thinking practices through collaborative programming with the micro,6,1,0,0,1,0
+HUNTER: AI based holistic resource management for sustainable cloud computing,11,0,0,0,0,1
+IADA: A dynamic interference-aware cloud scheduling architecture for latency-sensitive workloads,4,0,0,1,1,0
+Identification and measurement of Requirements Technical Debt in software development: A systematic literature review,4,3,1,0,0,1
+Impact of individualism and collectivism cultural profiles on the behaviour of software developers: A study of Stack Overflow,3,0,0,1,1,0
+Infinite technical debt✩,3,3,1,0,0,1
+Is it a case study?—A critical analysis and guidance,2,0,0,0,0,1
+Just-in-time software vulnerability detection: Are we there yet?,5,1,0,0,0,1
+Locating and categorizing inefficient communication patterns in HPC systems using inter-process communication traces,2,0,0,0,0,1
+Mining user reviews of COVID contact-tracing apps: An exploratory analysis of nine European apps,3,0,0,0,0,1
+Missing standard features compared with similar apps? A feature recommendation method based on the knowledge from user interface,5,0,0,0,1,0
+Modelling and executing IoT-enhanced business processes through BPMN and microservices,3,2,0,0,0,1
+Moderator factors of software security and performance verification✩,3,1,0,0,0,1
+Multi-paradigm modeling for cyber–physical systems: A systematic mapping review,12,7,1,0,0,1
+Mutation-based analysis of queueing network performance models,4,1,0,0,0,1
+Mutation testing of PL/SQL programs✩,2,1,1,0,1,0
+On the benefits and problems related to using Definition of Done—A survey study✩,4,1,1,1,1,0
+On the evaluation of usability design guidelines for improving network monitoring tools interfaces,4,2,1,0,1,0
+On the use of artificial intelligence to deal with privacy in IoT systems: A systematic literature review,3,1,0,1,1,0
+Perceptions of the human and social factors that influence the productivity of software development teams in Colombia: A statistical analysis,4,4,1,0,1,0
+Preventing accessibility barriers: Guidelines for using user interface design patterns in mobile applications,5,3,1,0,1,0
+PRHAN: Automated Pull Request Description Generation Based on Hybrid Attention Network✩,6,0,0,0,1,0
+Profiling gas consumption in Solidity smart contracts,5,2,0,1,1,0
+Quality measurement in agile and rapid software development: A systematic mapping,9,3,1,0,0,1
+Quantitative verification with adaptive uncertainty reduction,4,1,0,0,0,1
+Random or heuristic? An empirical study on path search strategies for test generation in KLEE,6,1,0,0,1,0
+Reducing large adaptation spaces in self-adaptive systems using classical machine learning,3,0,0,0,0,1
+Revealing the state of the art of large-scale agile development research: A systematic mapping study,6,2,0,0,0,1
+Role stereotypes in software designs and their evolution,6,0,0,0,0,1
+Self-adaptive mobile web service discovery framework for Dynamic Mobile Environment,3,2,0,1,1,0
+SEXTAMT: A systematic map to navigate the wide seas of factors affecting expert judgment software estimates,4,2,1,0,0,1
+Sharing runtime permission issues for developers based on similar-app review mining,7,1,0,0,0,1
+Smells and refactorings for microservices security: A multivocal literature review,4,0,0,0,0,1
+Software engineering for quantum programming: How far are we?,5,0,0,0,0,1
+Software micro-rejuvenation for Android mobile systems,5,0,0,1,1,0
+Software product line scoping: A systematic literature review,6,0,0,0,0,1
+Spreadsheet debugging: The perils of tool over-reliance,4,1,0,0,1,0
+Systematic literature review of domain-oriented specification techniques,2,1,0,0,0,1
+Taxonomy of security weaknesses in Java and Kotlin Android apps,7,1,0,0,0,1
+Technical debts and faults in open-source quantum software systems: An empirical study,5,1,0,1,1,0
+Test automation maturity improves product quality—Quantitative study of open source projects using continuous integration,4,0,0,1,1,0
+Test case prioritization using partial attention✩,6,0,0,1,1,0
+Testing anticipatory systems: A systematic mapping study on the state of the art,3,0,0,0,1,0
+The state of research on software engineering competencies: A systematic mapping study,3,2,1,0,0,1
+Towards a logical framework for ideal MBSE tool selection based on discipline specific requirements,8,1,0,0,1,0
+"Towards using visual, semantic and structural features to improve code readability classification",4,0,0,1,1,0
+Transformation-based model checking temporal trust in multi-agent systems,4,1,1,0,0,1
+Understanding Roxygen package documentation in R,1,1,1,1,0,0
+Usability inspection: Novice crowd inspectors versus expert✩,3,1,0,0,1,0
+Using deep temporal convolutional networks to just-in-time forecast technical debt principal,5,3,0,0,1,0
+Using mutual information to test from Finite State Machines: Test suite generation,1,0,0,1,1,0
+Visualization of aggregated information to support class-level software evolution,2,1,1,0,0,1
+Vulpedia: Detecting vulnerable ethereum smart contracts via abstracted vulnerability signatures,6,0,0,0,0,1
+VulSlicer: Vulnerability detection through code slicing,2,1,1,1,1,0
+Wayback Machine: A tool to capture the evolutionary behavior of the bug reports and their triage process in open-source software systems,5,1,0,0,0,1
+What factors affect the UX in mobile apps? A systematic mapping study on the analysis of app store reviews,5,2,0,0,0,1
+When traceability goes awry: An industrial experience report,3,0,0,0,1,0
+Which builds are really safe to skip? Maximizing failure observation for build selection in continuous integration,2,0,0,0,0,1
+Why and how is Scrum being adapted in practice: A systematic review ✩,2,0,0,0,0,1
+116,0,0,0,0,0,0

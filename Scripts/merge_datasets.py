@@ -4,7 +4,7 @@ import pandas as pd
 df_counts = pd.read_csv('authors_summary.csv')  # Replace with your actual file name
 
 # Load the second CSV (where you want to add the new columns)
-df_papers = pd.read_csv('2024_v2.csv')  # Replace with your actual file name
+df_papers = pd.read_csv('2022.csv')  # Replace with your actual file name
 
 # Merge the two DataFrames on the 'Paper Title' column
 df_merged = pd.merge(df_papers, df_counts, on='Paper Title', how='left')

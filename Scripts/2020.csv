@@ -1,0 +1,372 @@
+Paper Title,Study Domain Terms,Author Name,Gender,Affiliation,Country,Conceptualization,Data Curation,Formal Analysis,Funding Acquisition,Investigation,Methodology,Project Administration,Resources,Software,Supervision,Validation,Visualization,Writing – Original Draft,Writing – Review & Editing
+Requirements for adopting software process lines,Software Process Lines; Method Tailoring; Requirements Engineering; Systematic Mapping Study; Software Product Lines,Halimeh Agh,Female,"Department of Computer Engineering, Sharif University of Technology, Tehran, Iran",Iran,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+,,Félix Garcia,Male,"Alarcos Research Group, Information Technologies and Systems Institute, University of Castilla-La Mancha, Ciudad Real, Spain",Spain,0,0,0,0,1,0,0,1,0,1,1,0,0,1
+,,Mario Piattini,Male,"Alarcos Research Group, Information Technologies and Systems Institute, University of Castilla-La Mancha, Ciudad Real, Spain",Spain,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+,,Raman Ramsin,Male,"Department of Computer Engineering, Sharif University of Technology, Tehran, Iran",Iran,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Systematic literature reviews in software engineering—enhancement of the study selection process using Cohen’s Kappa statistic,Systematic Literature Reviews; Bias Reduction; Study Selection Criteria; Software Engineering; Statistical Methods in Research,Jorge Pérez,Male,Universidad Politécnica de Madrid (Technical University of Madrid),Spain,1,0,1,0,0,1,0,0,0,1,0,0,0,0
+,,Jessica Díaz,Female,Universidad Politécnica de Madrid (Technical University of Madrid),Spain,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+,,Javier Garcia-Martin,Male,Universidad Politécnica de Madrid (Technical University of Madrid),Spain,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+,,Bernardo Tabuenca,Male,Universidad Politécnica de Madrid (Technical University of Madrid),Spain,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+A classification framework for automated control code generation in industrial automation,Industrial Automation; Control Logic Generation; IEC 61131-3; Automation Software; Case Study Validation,Heiko Koziolek,Male,"ABB Corporate Research Center Germany, Wallstadter Str. 59, D-68526 Ladenburg, Germany",Germany,1,0,0,0,0,1,0,0,0,1,0,1,1,0
+,,Andreas Burger,Male,"ABB Corporate Research Center Germany, Wallstadter Str. 59, D-68526 Ladenburg, Germany",Germany,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+,,Marie Platenius-Mohr,Female,"ABB Corporate Research Center Germany, Wallstadter Str. 59, D-68526 Ladenburg, Germany",Germany,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+,,Raoul Jetley,Male,"ABB Corporate Research, Bhoruka Tech Park, ITPL Main Rd, Mahadevapura, Bengaluru, Karnataka 560048, India",India,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+Job-work fit as a determinant of the acceptance of large-scale agile methodology,Agile Methodology; Large-Scale Agile; Methodology Acceptance; Software Development; Job-Work Fit,Dinesh Batra,Male,"IS and Business Analytics, Florida International University",United States,1,0,1,0,1,1,0,1,0,0,0,0,1,1
+The effect of transactive memory systems on process tailoring in software projects: The moderating role of task conflict and shared temporal cognitions,Software Process Tailoring; Transactive Memory Systems; Task Conflict; Temporal Cognitions; Team Performance,Jung-Chieh Lee,Male,"International Business Faculty, Beijing Normal University Zhuhai",China,1,1,0,0,1,1,0,0,0,0,0,1,1,1
+,,Yih-Tsyr Wang,Female,"Department of Information Management, National Central University",Taiwan,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+,,Chung-Yang Chen,Male,"Department of Information Management, National Central University",Taiwan,1,1,0,0,1,1,0,0,0,1,0,1,1,1
+Finding faults: A scoping study of fault diagnostics for Industrial Cyber–Physical Systems,Industrial Cyber–Physical Systems; Fault Diagnostics; Aerospace; Automotive; Machine Learning,Barry Dowdeswell,Male,Auckland University of Technology,New Zealand,1,1,0,0,1,1,1,0,0,0,0,0,1,1
+,,Roopak Sinha,Male,Auckland University of Technology,New Zealand,1,0,0,0,0,1,0,0,0,1,1,0,0,1
+,,Stephen G. MacDonell,Male,Auckland University of Technology,New Zealand,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+Capturing software architecture knowledge for pattern-driven design,Software Architecture; Architectural Patterns; Knowledge Management; Decision Models; Software Design,Siamak Farshidi,Male,"Department of Information and Computer Science, Utrecht University",The Netherlands,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+,,Slinger Jansen,Male,"Department of Information and Computer Science, Utrecht University; School of Engineering Science, LUT University","The Netherlands, Finland",1,0,0,1,1,1,1,0,0,1,1,1,1,1
+,,Jan Martijn van der Werf,Male,"Department of Information and Computer Science, Utrecht University",The Netherlands,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+PRISE: A process to support iStar extensions,Goal-based Modelling; Requirements Engineering; iStar Extensions; Process Customization; Expert Evaluation,Enyo Gonçalves,Male,"Universidade Federal do Ceará, Quixadá, CE, Brazil",Brazil,1,0,0,0,1,1,0,0,1,0,1,0,1,0
+,,João Araujo,Male,"NOVA LINCS, FCT, Universidade Nova de Lisboa, Lisboa, Portugal",Portugal,1,0,0,0,1,0,0,0,0,1,0,0,0,1
+,,Jaelson Castro,Male,"Universidade Federal de Pernambuco, Recife, PE, Brazil",Brazil,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Model-based testing of software product lines: Mapping study and research roadmap,Software Product Lines; Model-Based Testing; Test Case Automation; Variability Management; Software Engineering,Kleber L. Petry,Male,"Informatics Department (DIN), State University of Maringá (UEM), Maringá-PR, Brazil",Brazil,1,1,1,0,1,1,0,0,0,0,0,1,1,0
+,,Edson OliveiraJr,Male,"Informatics Department (DIN), State University of Maringá (UEM), Maringá-PR, Brazil",Brazil,1,1,1,0,0,1,1,0,0,1,1,1,1,0
+,,Avelino F. Zorzo,Male,"School of Technology, Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre-RS, Brazil",Brazil,0,0,1,0,0,1,0,0,0,1,0,1,0,1
+Regression test case prioritization by code combinations coverage,Regression Testing; Fault Detection; Code Coverage; Test Case Prioritization; Combination Coverage,Rubing Huang,Male,"School of Computer Science and Communication Engineering, Jiangsu University",China,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+,,Quanjun Zhang,Male,"School of Computer Science and Communication Engineering, Jiangsu University",China,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+,,Dave Towey,Male,"School of Computer Science, The University of Nottingham Ningbo China",China,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+,,Weifeng Sun,Male,"School of Computer Science and Communication Engineering, Jiangsu University",China,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+,,Jinfu Chen,Male,"School of Computer Science and Communication Engineering, Jiangsu University",China,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Code smells and refactoring: A tertiary systematic review of challenges and observations,Code Smells; Refactoring; Software Quality; Maintenance and Evolution; Software Engineering Tools,Guilherme Lacerda,Male,"University of Vale do Rio dos Sinos, Polytechnic School São Leopoldo, RS, Brazil",Brazil,1,0,0,0,1,1,1,1,0,1,1,1,1,1
+,,Fabio Petrillo,Male,"University of Quebec at Chicoutimi, Department of Computer Science & Mathematics Chicoutimi, Quebec, Canada",Canada,1,0,0,0,1,1,0,1,0,1,1,0,0,1
+,,Marcelo Pimenta,Male,"Federal University of Rio Grande do Sul, Institute of Informatics Porto Alegre, RS, Brazil",Brazil,1,0,0,0,0,1,0,0,0,1,1,0,0,1
+,,Yann Gaël Guéhéneuc,Male,"Concordia University, Department of Computer Science and Software Engineering Montreal, Quebec, Canada",Canada,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+Software-testing education: A systematic literature mapping,Software Testing Education; Pedagogical Approaches; Systematic Literature Mapping; University Curriculum; Software Engineering,Vahid Garousi,Male,Queen's University Belfast,"Northern Ireland, UK",1,1,0,0,0,1,0,0,0,0,1,0,1,0
+,,Austen Rainer,Male,Queen's University Belfast,"Northern Ireland, UK",0,1,0,0,0,1,0,0,0,0,1,0,1,0
+,,Per Lauvås,Male,Kristiania University College,Norway,1,1,0,0,0,1,0,0,0,0,1,0,1,0
+,,Andrea Arcuri,Male,Kristiania University College,Norway,1,1,0,0,0,1,0,0,0,0,1,0,1,0
+Generating summaries for methods of event-driven programs: An Android case study,Source Code Summarization; Event-driven Programs; Deep Neural Networks; Dynamic Call Graphs; Android Development,Alireza Aghamohammadi,Male,"Department of Computer Engineering, Sharif University of Technology",Iran,1,0,1,0,0,1,0,0,1,0,1,0,1,0
+,,Maliheh Izadi,Female,"Department of Computer Engineering, Sharif University of Technology",Iran,1,0,1,0,0,1,0,0,1,0,1,0,1,0
+,,Abbas Heydarnoori,Male,"Department of Computer Engineering, Sharif University of Technology",Iran,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+A Systematic Mapping Study on Microservices Architecture in DevOps,Microservices Architecture; DevOps; Software Engineering; Systematic Mapping; Tool Support,Muhammad Waseem,Male,"School of Computer Science, Wuhan University, China",China,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+,,Peng Liang,Male,"School of Computer Science, Wuhan University, China",China,1,0,0,1,1,0,1,1,0,1,0,0,0,1
+,,Mojtaba Shahin,Male,"Faculty of Information Technology, Monash University, Australia",Australia,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+A Large Scale Analysis of Android — Web Hybridization,Android Security; Hybrid Applications; JavaScript Integration; Mobile Malware Analysis; WebView Security,Abhishek Tiwari,Male,National University of Singapore,Singapore,1,1,0,0,1,1,0,1,1,0,1,1,1,1
+,,Jyoti Prakash,Male,University of Potsdam,Germany,0,1,0,0,1,1,0,1,1,0,1,1,1,1
+,,Sascha Groß,Male,University of Potsdam,Germany,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+,,Christian Hammer,Male,University of Potsdam,Germany,0,0,0,1,1,1,1,1,0,1,1,0,1,1
+A systematic study of reward for reinforcement learning based continuous integration testing,Reinforcement Learning; Continuous Integration Testing; Test Case Prioritization; Reward Functions; Software Testing,Yang Yang,Male,"College of Information Science and Technology, Beijing University of Chemical Technology",China,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+,,Zheng Li,Male,"College of Information Science and Technology, Beijing University of Chemical Technology",China,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+,,Liuliu He,Female,"College of Information Science and Technology, Beijing University of Chemical Technology",China,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+,,Ruilian Zhao,Female,"College of Information Science and Technology, Beijing University of Chemical Technology",China,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Integrating UX work with agile development through user stories: An action research study in a small software company,UX Integration; Agile Development; Software-as-a-Service (SaaS); User Stories; Action Research,Alisa Ananjeva,Female,"Aalborg University, Computer Science, Denmark",Denmark,1,1,1,0,1,0,0,0,0,0,0,0,1,0
+,,John Stouby Persson,Male,"Aalborg University, Computer Science, Denmark",Denmark,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+,,Anders Bruun,Male,"Aalborg University, Computer Science, Denmark",Denmark,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+TagDC: A tag recommendation method for software information sites with a combination of deep learning and collaborative filtering,Tag Recommendation Systems; Collaborative Filtering; Deep Learning; Software Information Sites; Software Object Understanding,Can Li,Male,"School of Big Data & Software Engineering, Chongqing University",China,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+,,Ling Xu,Female,"School of Big Data & Software Engineering, Chongqing University",China,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+,,Meng Yan,Male,"School of Big Data & Software Engineering, Chongqing University",China,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+,,Yan Lei,Male,"School of Big Data & Software Engineering, Chongqing University",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Technical debt forecasting: An empirical study on open-source repositories,Technical Debt; Software Maintenance; Machine Learning; Open-source Repositories; Static Analysis Tools,Dimitrios Tsoukalas,Male,"Information Technologies Institute, Centre for Research and Technology Hellas, University of Macedonia, Thessaloniki",Greece,1,1,1,0,1,1,0,0,1,0,0,1,1,1
+,,Dionysios Kehagias,Male,"Information Technologies Institute, Centre for Research and Technology Hellas, Thessaloniki",Greece,0,0,1,1,0,1,1,1,0,0,1,1,0,1
+,,Miltiadis Siavvas,Male,"Information Technologies Institute, Centre for Research and Technology Hellas, Thessaloniki",Greece,0,1,1,0,0,0,0,0,1,0,0,1,0,1
+,,Alexander Chatzigeorgiou,Male,"Department of Applied Informatics, University of Macedonia, Thessaloniki",Greece,1,0,0,0,1,0,0,1,0,1,1,1,0,1
+Can this fault be detected: A study on fault detection via automated test generation,Test Generation; Code Coverage; Fault Detection; Software Quality; Multi-objective Optimization,Ping Ma,Male,"School of Computer Science, Wuhan University, Wuhan 430072, China",China,0,1,0,0,0,0,0,0,1,0,1,1,1,1
+,,Hangyuan Cheng,Male,"School of Computer Science, Wuhan University, Wuhan 430072, China",China,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,Jingxuan Zhang,Male,"College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing 211106, China",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Jifeng Xuan,Male,"School of Computer Science, Wuhan University, Wuhan 430072, China",China,1,1,0,1,0,1,1,0,1,0,0,0,1,0
+Neural joint attention code search over structure embeddings for software Q&A sites,Code Search; Neural Networks; Semantic Similarity; Bi-modal Embeddings; Software Q&A,Gang Hu,Male,"Department of National Engineering Research Center for Multimedia Software, Wuhan University",China,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+,,Min Peng,Male,"Department of National Engineering Research Center for Multimedia Software, Wuhan University",China,0,0,1,1,0,0,0,0,1,1,1,1,0,0
+,,Yihan Zhang,Female,"School of Computing, National University of Singapore",Singapore,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+,,Qianqian Xie,Female,"Department of National Engineering Research Center for Multimedia Software, Wuhan University",China,0,1,0,0,0,0,0,1,0,1,0,0,0,1
+,,Mengting Yuan,Female,"Department of National Engineering Research Center for Multimedia Software, Wuhan University",China,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Continuous experimentation and the cyber–physical systems challenge: An overview of the literature and the industrial perspective,Continuous Experimentation; Cyber-Physical Systems; Software Development; Systematic Literature Review; Industrial Case Studies,Federico Giaimo,Male,Chalmers University of Technology,Sweden,1,0,0,0,1,1,0,0,0,0,0,1,1,0
+,,Hugo Andrade,Male,Chalmers University of Technology,Sweden,1,0,0,0,1,0,0,0,0,0,1,1,0,1
+,,Christian Berger,Male,University of Gothenburg,Sweden,1,0,0,0,1,1,0,0,0,0,1,0,0,1
+Secondary studies in the academic context: A systematic mapping and survey,Systematic Literature Review; Software Engineering; Secondary Studies; Research Methodology; Academic Research,Katia Romero Felizardo,Female,"Federal University of Technology - Paraná (UTFPR), Brazil",Brazil,1,0,1,1,0,1,1,1,0,1,1,0,1,0
+,,Érica Ferreira de Souza,Female,"Federal University of Technology - Paraná (UTFPR), Brazil",Brazil,1,0,0,0,0,1,0,1,0,0,1,0,1,0
+,,Bianca Minetto Napoleão,Female,"Federal University of Technology - Paraná (UTFPR), Brazil",Brazil,1,0,0,0,0,1,0,1,0,0,1,0,1,0
+,,Nandamudi Lankalapalli Vijaykumar,Male,"National Institute for Space Research (INPE), Federal University of São Paulo (Unifesp), Brazil",Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Maria Teresa Baldassarre,Female,"Università degli Studi di Bari Aldo Moro, Italy",Italy,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ReSIde: Reusable service identification from software families,Service-Oriented Architecture; Software Product Variants; Code Cloning; Software Reuse; Automated Service Identification,Anas Shatnawi,Male,"LIRMM, University of Montpellier, Montpellier, France; LIP6, Sorbonne University, Paris, France",France,1,1,0,0,1,1,0,0,1,0,1,0,1,1
+,,Abdelhak Seriai,Male,"LIRMM, University of Montpellier, Montpellier, France",France,1,0,0,0,1,1,0,0,0,0,1,0,0,1
+,,Houari Sahraoui,Male,"GEODES, University of Montreal, Montreal, Quebec, Canada",Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Tewfik Ziadi,Male,"LIP6, Sorbonne University, Paris, France",France,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Abderrahmene Seriai,Male,"GEODES, University of Montreal, Montreal, Quebec, Canada",Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Black-box adversarial sample generation based on differential evolution,Deep Neural Networks (DNNs); Adversarial Attacks; Differential Evolution; Robustness Testing; Black-box Attack Techniques,Junyu Lin,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,1,0,0,0,0,1,0,0,1,0,1,0,1,0
+,,Lei Xu,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+,,Yingqi Liu,Female,"Department of Computer Science, Purdue University",USA,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+,,Xiangyu Zhang,Male,"Department of Computer Science, Purdue University",USA,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Scrum versus Rational Unified Process in facing the main challenges of product configuration systems development,Product Configuration Systems; Mass Customization; Software Development; Agile Methodologies; Knowledge Management,Sara Shafiee,Female,"Department of Mechanical Engineering, Technical University of Denmark",Denmark,1,0,1,0,1,1,1,1,0,0,1,0,1,1
+,,Yves Wautelet,Male,"Research Centre for Information Systems Engineering (LIRIS), KU Leuven",Belgium,1,0,1,0,0,1,1,0,0,0,1,0,1,1
+,,Lars Hvam,Male,"Department of Management Engineering, Technical University of Denmark",Denmark,1,0,0,0,1,1,0,0,0,1,1,0,1,0
+,,Enrico Sandrin,Male,"Department of Management and Engineering, University of Padova",Italy,1,0,1,0,0,1,0,0,0,0,1,0,1,1
+,,Cipriano Forza,Male,"Department of Management and Engineering, University of Padova",Italy,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+Studying the Relationship Between the Usage of APIs Discussed in the Crowd and Post-Release Defects,APIs; Post-Release Defects; Crowd Knowledge; Software Quality; Open Source Projects,Hamed Tahmooresi,Male,"Department of Computer Engineering, Sharif University of Technology, Tehran, Iran",Iran,1,0,1,0,0,1,0,0,1,0,1,0,1,0
+,,Abbas Heydarnoori,Male,"Department of Computer Engineering, Sharif University of Technology, Tehran, Iran",Iran,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+,,Reza Nadri,Male,"Department of Computer Engineering, Sharif University of Technology, Tehran, Iran",Iran,0,0,0,0,1,0,0,0,1,0,1,0,0,1
+Implementation relations and testing for cyclic systems with refusals and discrete time,Cyclic System Modeling; Reactive Systems; Formal Methods; Implementation Relations; Discrete Time Testing,Raluca Lefticaru,Female,"Department of Computer Science, University of Bradford, Bradford, UK",UK,0,0,0,0,1,1,0,0,1,0,0,1,1,1
+,,Robert M. Hierons,Male,"Department of Computer Science, The University of Sheffield, Sheffield, UK",UK,1,0,0,1,0,1,0,0,0,1,0,0,1,1
+,,Manuel Núñez,Male,"Design and Testing of Reliable Systems, Universidad Complutense de Madrid, Spain",Spain,0,0,0,1,0,1,0,0,0,1,0,1,1,1
+Imbalanced metric learning for crashing fault residence prediction,Software Fault Localization; Crash Data Analysis; Metric Learning; Imbalanced Learning; Debugging Automation,Zhou Xu,Male,"Key Laboratory of Dependable Service Computing in Cyber Physical Society, Chongqing University, College of Computer Science, Chongqing University",China,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+,,Kunsong Zhao,Male,"School of Computer Science, Wuhan University",China,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+,,Meng Yan,Male,"Key Laboratory of Dependable Service Computing in Cyber Physical Society, Chongqing University, PengCheng Laboratory",China,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+,,Peipei Yuan,Female,"School of Electronic Information and Communications, Huazhong University of Science and Technology",China,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Ling Xu,Female,"Key Laboratory of Dependable Service Computing in Cyber Physical Society, Chongqing University",China,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+,,Yan Lei,Male,"Key Laboratory of Dependable Service Computing in Cyber Physical Society, Chongqing University",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Xiaohong Zhang,Female,"Key Laboratory of Dependable Service Computing in Cyber Physical Society, Chongqing University",China,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+CommtPst: Deep learning source code for commenting positions prediction,Automatic Code Commenting; Source Code Analysis; Neural Language Models; Abstract Syntax Trees; Machine Learning in Software,Yuan Huang,Male,"National Engineering Research Center of Digital Life, School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China",China,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+,,Xinyu Hu,Male,"National Engineering Research Center of Digital Life, School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China",China,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+,,Nan Jia,Male,"School of Management Science and Engineering, Hebei GEO University, Shijiazhuang, China",China,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+,,Xiangping Chen,Male,"Guangdong Key Laboratory for Big Data Analysis and Simulation of Public Opinion, School of Communication and Design, Sun Yat-sen University, Guangzhou, China",China,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+,,Zibin Zheng,Male,"National Engineering Research Center of Digital Life, School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China",China,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+,,Xiapu Luo,Male,"The Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China",China,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Vendor Switching: Factors that matter when engineers onboard their own replacement,Offshore Outsourcing; Vendor Switching; Knowledge Transfer; Organizational Fit; Opportunistic Behavior,Darja Smite,Female,"Blekinge Institute of Technology, Karlskrona, Sweden",Sweden,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+,,Nils Brede Moe,Male,"SINTEF Digital, Trondheim, Norway",Norway,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+Understanding coordination in global software engineering: A mixed-methods study on the use of meetings and Slack,Global Software Engineering; Team Coordination; Collaboration Tools; Distributed Teams; Meetings Analysis,Viktoria Stray,Female,"University of Oslo, Oslo, Norway; SINTEF Digital, Trondheim, Norway",Norway,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+,,Nils Brede Moe,Male,"SINTEF Digital, Trondheim, Norway",Norway,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+Examining the reuse potentials of IoT application frameworks,IoT Systems; Framework Reusability; Component Reuse; Device Management; Software Quality,Paraskevi Smiari,Female,"University of Western Macedonia, Greece",Greece,1,1,1,0,0,1,0,0,1,0,0,0,1,1
+,,Stamatia Bibi,Female,"University of Western Macedonia, Greece",Greece,1,0,0,0,0,1,0,0,1,0,0,0,1,1
+,,Daniel Feitosa,Male,"Data Research Centre, University of Groningen, The Netherlands",The Netherlands,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+Architectural Design Space for Modelling and Simulation as a Service: A Review,Modelling and Simulation (M&S); Software Architecture; Service-Oriented Architecture; Interoperability; Deployability,Mojtaba Shahin,Male,"Department of Software Systems and Cybersecurity, Faculty of Information Technology, Monash University",Australia,1,0,1,0,1,1,0,0,0,0,1,0,1,1
+,,M. Ali Babar,Male,"Centre for Research on Engineering Software Technologies, School of Computer Science, University of Adelaide, CSCRC",Australia,1,0,0,1,0,0,1,0,0,1,1,0,0,1
+,,Muhammad Aufeef Chauhan,Male,"Centre for Research on Engineering Software Technologies, School of Computer Science, University of Adelaide, CSCRC",Australia,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Early validation of cyber–physical space systems via multi-concerns integration,Cyber-Physical Systems; Model-Driven Engineering; Separation of Concerns; Statistical Model Checking; Autonomous Systems,Nianyu Li,Male,"Key Laboratory of High Confidence Software Technologies (MoE), Peking University",China,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+,,Christos Tsigkanos,Male,"Distributed Systems Group, TU Wien",Austria,1,0,0,0,0,1,0,1,0,0,0,0,1,0
+,,Zhi Jin,Male,"Key Laboratory of High Confidence Software Technologies (MoE), Peking University",China,1,0,0,1,0,0,0,0,0,1,0,0,0,1
+,,Zhenjiang Hu,Male,"Key Laboratory of High Confidence Software Technologies (MoE), Peking University",China,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+,,Carlo Ghezzi,Male,"Dipartimento di Elettronica Informazione e Bioingegneria, Politecnico di Milano",Italy,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Some SonarQube issues have a significant but small effect on faults and changes. A large-scale empirical study,SonarQube Issues; Fault-proneness; Code Changes; Software Quality; Technical Debt,Valentina Lenarduzzi,Female,"LUT University, Lahti, Finland",Finland,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+,,Nyyti Saarimäki,Female,"Tampere University, Tampere, Finland",Finland,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+,,Davide Taibi,Male,"Tampere University, Tampere, Finland",Finland,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+Architectural Design Space for Modelling and Simulation as a Service: A Review,Modelling and Simulation; Software Architecture; MSaaS; Interoperability; Deployability,Mojtaba Shahin,Male,"Department of Software Systems and Cybersecurity, Faculty of Information Technology, Monash University",Australia,1,0,1,0,1,1,0,0,0,0,1,0,1,1
+,,M. Ali Babar,Male,"Centre for Research on Engineering Software Technologies, School of Computer Science, University of Adelaide; Cyber Security Cooperative Research Centre (CSCRC)",Australia,1,0,0,1,0,0,1,0,0,1,1,0,0,1
+,,Muhammad Aufeef Chauhan,Male,"Centre for Research on Engineering Software Technologies, School of Computer Science, University of Adelaide; Cyber Security Cooperative Research Centre (CSCRC)",Australia,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+Capturing creative requirements via requirements reuse: A machine learning-based approach,Software Creativity; Requirements Reuse; Natural Language Processing; Machine Learning; Software Development,Quoc Anh Do,Male,"Department of Computer Science and Engineering, Mississippi State University",USA,1,0,0,0,0,1,0,0,1,0,0,0,1,0
+,,Tanmay Bhowmik,Male,"Department of Computer Science and Engineering, Mississippi State University",USA,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+,,Gary L. Bradshaw,Male,"Department of Psychology, Mississippi State University",USA,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"On the generation, structure, and semantics of grammar patterns in source code identifiers",Code Patterns; Identifier Naming; Source Code Analysis; Grammar Semantics; POS Tagging,Christian D. Newman,Male,"Rochester Institute of Technology, Rochester, NY, USA",USA,1,1,1,0,1,1,0,0,1,0,1,0,1,1
+,,Reem S. AlSuhaibani,Female,"Kent State University, Kent, OH, USA; Prince Sultan University, Riyadh, Saudi Arabia","USA, Saudi Arabia",1,1,0,0,0,0,0,0,0,0,1,0,0,1
+,,Michael J. Decker,Male,"Bowling Green State University, Bowling Green, OH, USA",USA,1,1,0,0,0,0,0,0,0,0,1,0,0,1
+,,Anthony Peruma,Male,"Rochester Institute of Technology, Rochester, NY, USA",USA,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Dishant Kaushik,Male,"Rochester Institute of Technology, Rochester, NY, USA",USA,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+,,Mohamed Wiem Mkaouer,Male,"Rochester Institute of Technology, Rochester, NY, USA",USA,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Emily Hill,Female,"Drew University, Madison, NJ, USA",USA,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+A large empirical assessment of the role of data balancing in machine-learning-based code smell detection,Code Smell Detection; Machine Learning; Software Quality; Technical Debt; Data Balancing,Fabiano Pecorelli,Male,"SeSa Lab, University of Salerno, Fisciano, Italy",Italy,1,1,1,0,1,0,0,0,1,0,0,1,1,0
+,,Dario Di Nucci,Male,"Tilburg University, Jheronimus Academy of Data Science, ’s-Hertogenbosch, The Netherlands",The Netherlands,1,0,0,0,0,1,0,0,0,0,1,0,0,1
+,,Coen De Roover,Male,"Vrije Universiteit Brussel, Brussels, Belgium",Belgium,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+,,Andrea De Lucia,Male,"SeSa Lab, University of Salerno, Fisciano, Italy",Italy,0,0,0,0,0,1,0,1,0,1,0,0,0,1
+A comparison of quality flaws and technical debt in model transformation specifications,Model Transformations; Technical Debt; Model-Driven Engineering; Software Quality; Quality Flaws Analysis,Shekoufeh Kolahdouz-Rahimi,Female,"MDSE Research Group, Dept. of Software Engineering, University of Isfahan",Iran,1,1,0,0,1,1,0,0,0,0,0,0,1,1
+,,Kevin Lano,Male,"Dept. of Informatics, King’s College London",UK,0,0,1,0,1,1,0,0,1,0,1,1,1,1
+,,Mohammadreza Sharbaf,Male,"MDSE Research Group, Dept. of Software Engineering, University of Isfahan",Iran,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+,,Meysam Karimi,Male,"MDSE Research Group, Dept. of Software Engineering, University of Isfahan",Iran,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+,,Hessa Alfraihi,Female,"Dept. of Information Systems, Princess Nourah bint Abdulrahman University",Saudi Arabia,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+From API to NLI: A new interface for library reuse,API Learning; Library Reuse; Natural Language Interface; Code Synthesis; Software Development,Qi Shen,Male,"Key Laboratory of High Confidence Software Technologies, Ministry of Education; School of Electronics Engineering and Computer Science, Peking University",China,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+,,Shijun Wu,Male,"Key Laboratory of High Confidence Software Technologies, Ministry of Education; School of Electronics Engineering and Computer Science, Peking University",China,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+,,Yanzhen Zou,Female,"Key Laboratory of High Confidence Software Technologies, Ministry of Education; School of Electronics Engineering and Computer Science, Peking University",China,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+,,Zixiao Zhu,Male,IBM Research,China,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+,,Bing Xie,Male,"Key Laboratory of High Confidence Software Technologies, Ministry of Education; School of Electronics Engineering and Computer Science, Peking University",China,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Function-as-a-Service performance evaluation: A multivocal literature review,Serverless Cloud Computing; Function-as-a-Service (FaaS); Performance Benchmarking; Cloud System Experimentation; AWS Lambda,Joel Scheuner,Male,Chalmers — University of Gothenburg,Sweden,1,1,0,0,1,1,0,0,1,0,1,1,1,1
+,,Philipp Leitner,Male,Chalmers — University of Gothenburg,Sweden,1,0,0,1,1,1,0,0,0,1,0,0,0,1
+A systematic literature review of model-driven security engineering for cyber–physical systems,Cyber–Physical Systems; IoT Security; Model-Driven Security; Threat Mitigation; Safety-Critical Systems,Johannes Geismann,Male,"Heinz Nixdorf Institute, Paderborn University, Fraunhofer IEM",Germany,1,1,0,0,1,0,0,0,0,0,0,0,1,1
+,,Eric Bodden,Male,"Heinz Nixdorf Institute, Paderborn University, Fraunhofer IEM",Germany,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+"Contextualizing rename decisions using refactorings, commit messages, and data types",Program Comprehension; Rename Refactorings; Source Code Analysis; Data Types; Identifier Names,Anthony Peruma,Male,"Rochester Institute of Technology, Rochester, NY, USA",USA,1,0,0,0,1,1,0,0,0,0,1,0,0,1
+,,Mohamed Wiem Mkaouer,Male,"Rochester Institute of Technology, Rochester, NY, USA",USA,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+,,Michael J. Decker,Male,"Bowling Green State University, Bowling Green, OH, USA",USA,1,0,0,0,1,1,0,0,0,0,0,0,0,1
+,,Christian D. Newman,Male,"Rochester Institute of Technology, Rochester, NY, USA",USA,1,0,0,0,1,1,1,0,0,1,0,0,0,1
+Evaluating and strategizing the onboarding of software developers in large-scale globally distributed projects,Onboarding Strategies; Large-scale Projects; Distributed Teams; Mentorship in Software Engineering; Business Process Modeling,Ricardo Britto,Male,"Ericsson AB, Ölandsgatan, 371 73, Karlskrona, Sweden; Department of Software Engineering, Blekinge Institute of Technology, Karlskrona, Sweden",Sweden,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+,,Darja Smite,Female,"Department of Software Engineering, Blekinge Institute of Technology, Karlskrona, Sweden",Sweden,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+,,Lars-Ola Damm,Male,"Ericsson AB, Ölandsgatan, 371 73, Karlskrona, Sweden",Sweden,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+,,Jürgen Börstler,Male,"Department of Software Engineering, Blekinge Institute of Technology, Karlskrona, Sweden",Sweden,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Similarity-based analyses on software applications: A systematic literature review,Software Similarity; Machine Learning in SE; Categorization Methods; Empirical SE; Software Phases,Maximilian Auch,Male,"Munich University of Applied Science, Lothstrasse 64, 80335 Munich",Germany,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+,,Manuel Weber,Male,"Munich University of Applied Science, Lothstrasse 64, 80335 Munich",Germany,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+,,Peter Mandl,Male,"Munich University of Applied Science, Lothstrasse 64, 80335 Munich",Germany,0,0,0,1,0,0,1,1,0,1,1,0,0,1
+,,Christian Wolff,Male,University of Regensburg,Germany,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+FCCI: A fuzzy expert system for identifying coincidental correct test cases,Spectrum-based Fault Localization; Program Debugging; Fuzzy Expert Systems; Coincidental Correctness; Test Case Identification,Arash Sabbaghi,Male,"Faculty of Computer and Information Technology Engineering, Qazvin Branch, Islamic Azad University, Qazvin, Iran",Iran,0,1,1,0,1,0,0,1,1,0,1,1,1,0
+,,Mohammad Reza Keyvanpour,Male,"Department of Computer Engineering, Alzahra University, Tehran, Iran",Iran,0,1,0,0,0,0,1,0,0,1,1,0,0,1
+,,Saeed Parsa,Male,"Department of Computer Engineering, Iran University of Science and Technology, Tehran, Iran",Iran,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+A federated society of bots for smart contract testing,Smart Contracts; Blockchain Testing; Fault Detection; Bot Society Simulation; Software Engineering,Emanuele Viglianisi,Male,"Fondazione Bruno Kessler, Trento, Italy",Italy,1,0,0,0,0,1,0,0,1,0,1,0,0,1
+,,Mariano Ceccato,Male,"University of Verona, Verona, Italy",Italy,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+,,Paolo Tonella,Male,"Università della Svizzera Italiana (USI), Lugano, Switzerland",Switzerland,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+A refinement checking based strategy for component-based systems evolution,Component-based Systems; Refinement Relations; CSP-based Models; Deadlock Freedom; Autonomous Healthcare Systems,José Dihego,Male,"Coordenação de Informática, IFBA, Feira de Santana BA",Brazil,1,0,1,0,1,0,0,0,1,0,0,0,1,0
+,,Augusto Sampaio,Male,"Centro de Informática, Universidade Federal de Pernambuco, Recife-PE",Brazil,0,0,0,0,0,1,1,0,0,1,1,0,0,1
+,,Marcel Oliveira,Male,"Departamento de Informática e Matemática Aplicada, UFRN, Natal-RN",Brazil,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+ASPLe: A methodology to develop self-adaptive software systems with systematic reuse,Self-Adaptive Software Systems; Reuse Engineering; Software Product Lines; Autonomic Systems; Software Quality,Nadeem Abbas,Male,Linnaeus University,Sweden,1,0,1,0,1,1,0,0,1,0,1,0,1,0
+,,Jesper Andersson,Male,Linnaeus University,Sweden,1,0,0,0,0,1,0,0,0,1,0,0,1,0
+,,Danny Weyns,Male,"Linnaeus University, KU Leuven","Sweden, Belgium",0,0,1,0,0,0,0,0,0,0,1,0,0,1
+A pattern-based approach to detect and improve non-descriptive test names,Unit Testing; Test Name Quality; Pattern-based Approach; JUnit Testing; Software Development,Jianwei Wu,Male,"University of Delaware, Newark, DE, USA",USA,1,1,1,0,0,1,0,0,1,0,0,1,1,1
+,,James Clause,Male,"University of Delaware, Newark, DE, USA",USA,1,0,1,1,0,0,0,0,1,1,0,0,0,1
+An automatically created novel bug dataset and its validation in bug prediction,Bug Prediction; Bug Datasets; Software Metrics; Machine Learning Models; Software Engineering,Rudolf Ferenc,Male,University of Szeged,Hungary,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+,,Péter Gyimesi,Male,,Hungary,0,0,1,0,1,1,0,0,1,0,0,0,1,0
+,,Gábor Gyimesi,Male,University of Szeged,Hungary,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+,,Zoltán Tóth,Male,University of Szeged,Hungary,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+,,Tibor Gyimóthy,Male,"University of Szeged, MTA-SZTE Research Group on Artificial Intelligence",Hungary,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+CODE reuse in practice: Benefiting or harming technical debt,Software Reuse; Technical Debt; Software Engineering; Case Study; OSS Systems,Daniel Feitosa,Male,"Data Research Centre, University of Groningen, Groningen, the Netherlands",Netherlands,1,1,1,0,0,1,0,0,1,0,0,0,1,1
+,,Apostolos Ampatzoglou,Male,"Department of Applied Informatics, University of Macedonia, Thessaloniki, Greece",Greece,1,1,0,0,0,1,0,0,0,0,0,0,1,1
+,,Antonios Gkortzis,Male,"Department of Management Science and Technology, Athens University of Economics and Business, Greece",Greece,1,0,0,0,0,1,0,0,1,0,0,0,1,1
+,,Stamatia Bibi,Female,"Department of Informatics and Telecommunications, University of Western Macedonia, Kozani, Greece",Greece,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+,,Alexander Chatzigeorgiou,Male,"Department of Applied Informatics, University of Macedonia, Thessaloniki, Greece",Greece,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+Exploring software reusability metrics with Q&A forum data,Software Reusability; Q&A Forum Analysis; Machine Learning; Software Metrics; Word Embeddings,Matthew T. Patrick,Male,"Department of Dermatology, University of Michigan, Ann Arbor",United States of America,1,1,0,0,1,1,0,0,0,0,1,1,0,0
+Examining the effects of developer familiarity on bug fixing,Bug Fixing; Software Maintenance; Developer Efficiency; Empirical Study; Bug Impact Analysis,Chuanqi Wang,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+,,Yanhui Li,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+,,Lin Chen,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+,,Wenchin Huang,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+,,Yuming Zhou,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+,,Baowen Xu,Male,"State Key Laboratory for Novel Software Technology, Nanjing University; Department of Computer Science and Technology, Nanjing University",China,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SEET: Symbolic Execution of ETL Transformations,Model Transformations; Symbolic Execution; ETL Errors; Constraint Solvers; Eclipse Integration,Banafsheh Azizi,Female,"MDSE Research Group, Department of Software Engineering, University of Isfahan",Iran,1,0,0,0,1,1,0,0,1,0,1,1,1,1
+,,Bahman Zamani,Male,"MDSE Research Group, Department of Software Engineering, University of Isfahan",Iran,1,0,0,0,0,1,1,0,0,1,0,0,0,1
+,,Shekoufeh Kolahdouz-Rahimi,Female,"MDSE Research Group, Department of Software Engineering, University of Isfahan",Iran,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+The influence of Technical Debt on software developer morale,Technical Debt Management; Software Developer Productivity; Developer Morale; Time Wastage in Software Development; Software Engineering Practices,Terese Besker,Female,"Chalmers University of Technology, Hörselgången 4, 417 56 Gothenburg, Sweden",Sweden,1,1,1,0,1,1,1,0,0,0,1,1,1,1
+,,Hadi Ghanbari,Male,"Aalto University, Ekonominaukio 1, 02510, Espoo, Finland",Finland,1,0,1,0,1,1,0,0,0,0,1,1,1,0
+,,Antonio Martini,Male,"University of Oslo, Department of Informatics, Gaustadalléen 23B, 0373 Oslo, Norway",Norway,1,0,1,0,1,1,0,0,0,0,1,1,1,0
+,,Jan Bosch,Male,"Chalmers University of Technology, Hörselgången 4, 417 56 Gothenburg, Sweden",Sweden,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+"Uncertainty in information system development: Causes, effects, and coping mechanisms",Information System Development; Project Management; Uncertainty; Software Industry; Coping Mechanisms,Toni Taipalus,Male,University of Jyvaskyla,Finland,1,0,1,0,1,1,1,0,0,1,0,0,1,0
+,,Ville Seppänen,Male,University of Jyvaskyla,Finland,1,0,1,0,1,0,0,0,0,0,1,0,0,1
+,,Maritta Pirhonen,Female,University of Jyvaskyla,Finland,1,0,1,0,1,0,0,0,0,0,1,0,0,1
+Descriptions of issues and comments for predicting issue success in software projects,Software Development; Issue Tracking Systems; Machine Learning; Prediction Models; Software Project Success,Sandra L. Ramírez-Mora,Female,"Posgrado en Ciencia e Ingeniería de la Computación, Universidad Nacional Autónoma de México, Mexico City, Mexico",Mexico,1,1,1,0,1,1,0,0,1,0,0,1,1,0
+,,Hanna Oktaba,Female,"Facultad de Ciencias, Universidad Nacional Autónoma de México, Mexico City, Mexico",Mexico,1,0,0,0,0,1,0,0,0,1,1,0,0,1
+,,Helena Gómez-Adorno,Female,"Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Nacional Autónoma de México, Mexico City, Mexico",Mexico,1,0,0,0,0,1,0,0,1,1,1,0,0,1
+Java decompiler diversity and its application to meta-decompilation,Java Decompilation; Bytecode Analysis; Source Code Quality; Semantic Equivalence; Compilation Strategies,Nicolas Harrand,Male,KTH Royal Institute of Technology,Sweden,1,1,0,0,1,1,0,0,1,0,0,0,1,0
+,,César Soto-Valero,Male,KTH Royal Institute of Technology,Sweden,1,1,0,0,1,1,0,0,0,0,0,1,1,0
+,,Martin Monperrus,Male,KTH Royal Institute of Technology,Sweden,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+,,Benoit Baudry,Male,KTH Royal Institute of Technology,Sweden,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+Achieving agility and quality in product development - an empirical study of hardware startups,Agile Development; Hardware Startups; Product Quality; Technical Debt; Evolutionary Prototyping,Vebjørn Berg,Male,Norwegian University of Science and Technology,Norway,1,1,1,0,1,1,0,0,0,0,0,0,1,1
+,,Jørgen Birkeland,Male,Norwegian University of Science and Technology,Norway,1,1,1,0,1,1,0,0,0,0,0,0,1,1
+,,Anh Nguyen-Duc,Male,University of South-Eastern Norway,Norway,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+,,Ilias O. Pappas,Male,"Norwegian University of Science and Technology, University of Agder","Norway, Norway",0,0,0,0,0,0,0,1,0,1,0,0,0,1
+,,Letizia Jaccheri,Female,Norwegian University of Science and Technology,Norway,0,0,0,0,0,0,0,1,0,1,1,0,0,1
+The effect of multiple developers on structural attributes: A Study based on Java software,Software Development; Object-Oriented Metrics; Developer Collaboration; Software Maintainability; GitHub Project Analysis,Andrea Capiluppi,Male,"Department of Computer Science, Brunel University London",UK,1,1,0,0,1,1,0,0,1,0,0,0,1,0
+,,Nemitari Ajienka,Male,"Department of Computer Science, Edge Hill University",UK,1,0,0,0,1,1,0,0,0,0,0,0,1,0
+,,Steve Counsell,Male,"Department of Computer Science, Brunel University London",UK,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+More precise construction of static single assignment programs using reaching definitions,Program Analysis; Static Single Assignment; Compiler Optimization; Reaching Definitions; Algorithm Efficiency,Abu Naser Masud,Male,"Mälardalen University, Västerås, Sweden",Sweden,1,1,0,0,1,1,0,0,1,0,1,1,1,0
+,,Federico Ciccozzi,Male,"Mälardalen University, Västerås, Sweden",Sweden,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+Multilevel analysis of the Java virtual machine based on kernel and userspace traces,Java Virtual Machine; Performance Analysis; Kernel Tracing; Userspace Tracing; System Performance Diagnosis,Houssem Daoud,Male,"École Polytechnique de Montréal, Montréal, Québec, Canada",Canada,1,0,0,0,0,1,0,0,1,0,0,0,1,0
+,,Michel Dagenais,Male,"École Polytechnique de Montréal, Montréal, Québec, Canada",Canada,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Integrating GitLab metrics into coursework consultation sessions in a software engineering course,Software Engineering Education; GitLab Metrics; Collaborative Coding; Student Project Assessment; Educational Software Development Tools,Sukru Eraslan,Male,"Department of Computer Science, University of Manchester",United Kingdom,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+,,Kamilla Kopec-Harding,Female,"Research IT, University of Manchester",United Kingdom,1,1,1,0,1,1,0,0,0,0,0,0,0,1
+,,Caroline Jay,Female,"Department of Computer Science, University of Manchester",United Kingdom,1,0,0,0,0,1,0,0,0,1,0,0,0,1
+,,Suzanne M. Embury,Female,"Department of Computer Science, University of Manchester",United Kingdom,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Robert Haines,Male,"Research IT, University of Manchester",United Kingdom,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Julio César Cortés Ríos,Male,"Department of Computer Science, University of Manchester",United Kingdom,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Peter Crowther,Male,"Research IT, University of Manchester",United Kingdom,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Identifying vulnerabilities of SSL/TLS certificate verification in Android apps with static and dynamic analysis,SSL/TLS Certificate Verification; Android Security; Static Analysis; Dynamic Analysis; Vulnerability Detection,Yingjie Wang,Male,"Beijing Jiaotong University, China",China,0,0,0,0,0,1,0,0,1,0,1,1,1,0
+,,Guangquan Xu,Male,"Qingdao Huanghai University, China; Tianjin University, China",China,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+,,Xing Liu,Male,"Beijing Jiaotong University, China",China,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+,,Weixuan Mao,Male,National Computer Network Emergency Response Technical Team / Coordination Center of China,China,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+,,Chengxiang Si,Male,National Computer Network Emergency Response Technical Team / Coordination Center of China,China,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+,,Witold Pedrycz,Male,"University of Alberta, Canada",Canada,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+,,Wei Wang,Male,"Beijing Jiaotong University, China; King Abdullah University of Science and Technology (KAUST), Saudi Arabia",China; Saudi Arabia,1,0,1,1,1,1,1,0,0,1,0,0,1,1
+On tracking Java methods with Git mechanisms,Software Repository Mining; Method Tracking; Java Methods; Git Mechanisms; Software Evolution,Yoshiki Higo,Male,"Graduate School of Information Science and Technology, Osaka University, Japan",Japan,1,0,0,0,1,1,1,0,1,0,1,0,1,1
+,,Shinpei Hayashi,Male,"School of Computing, Tokyo Institute of Technology, Japan",Japan,0,1,0,0,1,0,0,0,1,0,1,0,0,1
+,,Shinji Kusumoto,Male,"Graduate School of Information Science and Technology, Osaka University, Japan",Japan,0,1,0,0,1,0,0,0,0,0,0,0,1,1
+ARC: Anomaly-aware Robust Cloud-integrated IoT service composition based on uncertainty in advertised quality of service values,IoT Service Composition; Cloud Computing; Anomaly Detection; Quality of Service (QoS); Robust Optimization,Mohammadreza Razian,Male,"Cloud Computing and Distributed Systems (CLOUDS) Laboratory, The University of Melbourne, VIC 3010, Australia; School of Industrial Engineering, Iran University of Science and Technology, Tehran, Iran","Australia, Iran",1,1,0,0,1,1,0,0,1,0,1,1,1,1
+,,Mohammad Fathian,Male,"School of Industrial Engineering, Iran University of Science and Technology, Tehran, Iran",Iran,1,0,0,0,0,1,1,0,0,1,1,0,0,1
+,,Rajkumar Buyya,Male,"Cloud Computing and Distributed Systems (CLOUDS) Laboratory, The University of Melbourne, VIC 3010, Australia",Australia,0,0,0,0,0,1,0,0,0,1,1,0,0,1
+Using likely invariants for test data generation,Automatic Test Data Generation; Search-based Methods; Invariant Learning; Software Testing; Program Input Analysis,M. Nosrati,Male,"Faculty of Computer Science and Engineering, Shahid Beheshti University G.C., Evin, Tehran",Iran,1,0,1,0,1,0,0,0,1,0,0,1,1,1
+,,H. Haghighi,Male,"Faculty of Computer Science and Engineering, Shahid Beheshti University G.C., Evin, Tehran",Iran,1,0,0,0,0,0,1,0,0,1,0,0,0,1
+,,M. Vahidi Asl,Male,"Faculty of Computer Science and Engineering, Shahid Beheshti University G.C., Evin, Tehran",Iran,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Improving software bug-specific named entity recognition with deep neural network,Bug Data Mining; Named Entity Recognition; Information Retrieval; Deep Learning; Bug Reports Analysis,Cheng Zhou,Male,"Yangzhou University, Taizhou University, Nanjing University of Aeronautics and Astronautics",China,0,0,0,0,0,1,0,0,1,0,1,0,1,1
+,,Bin Li,Male,"Yangzhou University, State Key Laboratory for Novel Software Technology, Nanjing University",China,1,0,0,0,0,1,1,0,0,1,0,0,0,1
+,,Xiaobing Sun,Male,"Yangzhou University, Nanjing University of Aeronautics and Astronautics",China,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+Substructure similarity search for engineering service-based systems,Service-Oriented Architecture; Software Engineering; Substructure Similarity Search; Service-Based Systems; Feature-Based Method,Jintao Wu,Male,"Anhui University, School of Computer Science and Technology, Key Laboratory of Quantitative Remote Sensing in Agriculture","China, China",1,0,0,0,0,1,0,0,1,0,0,0,1,0
+,,Xing Guo,Male,"Anhui University, School of Computer Science and Technology",China,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+,,Guijun Yang,Male,"Key Laboratory of Quantitative Remote Sensing in Agriculture, Beijing Research Center for Information Technology in Agriculture",China,0,0,1,1,0,0,0,0,0,0,1,0,0,1
+,,Shuhui Wu,Female,"Hefei University of Technology, School of Management",China,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+,,Jianguo Wu,Male,"Anhui University, School of Computer Science and Technology",China,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Diversified keyword search based web service composition,Service Composition; Keyword Search; Web Services; Service Connection Graphs; Quality of Service,Huanyu Cheng,Male,"School of Computer Science, Wuhan University",China,0,0,1,0,1,1,0,0,1,0,0,0,1,0
+,,Ming Zhong,Male,"School of Computer Science, Wuhan University",China,1,0,1,0,0,1,0,0,0,1,0,0,1,1
+,,Jian Wang,Male,"School of Computer Science, Wuhan University",China,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Relation-based test case prioritization for regression testing,Regression Testing; Fault Detection; Test Case Prioritization; Dynamic Call Sequences; Bug Detection,Jianlei Chi,Male,"Ministry of Education Key Lab for Intelligent Network and Network Security, Xi’an Jiaotong University",China,1,0,1,0,1,1,0,0,1,0,0,1,1,1
+,,Yu Qu,Male,"Department of Computer Science and Engineering, University of California, Riverside",USA,0,0,0,0,0,0,0,0,0,1,1,1,0,1
+,,Qinghua Zheng,Male,"Ministry of Education Key Lab for Intelligent Network and Network Security, Xi’an Jiaotong University",China,0,0,0,1,0,0,1,1,0,1,0,0,0,1
+,,Zijiang Yang,Male,"Department of Computer Science, Western Michigan University",USA,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Wuxia Jin,Female,"Ministry of Education Key Lab for Intelligent Network and Network Security, Xi’an Jiaotong University",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Di Cui,Female,"Ministry of Education Key Lab for Intelligent Network and Network Security, Xi’an Jiaotong University",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Ting Liu,Female,"Ministry of Education Key Lab for Intelligent Network and Network Security, Xi’an Jiaotong University",China,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+GAP: Forecasting commit activity in git projects,Commit Forecasting; Survival Analysis; Git Activity; Open Source Software; Developer Abandonment,Alexandre Decan,Male,"Software Engineering Lab, University of Mons, Belgium",Belgium,1,1,0,0,1,1,0,0,1,0,1,1,1,1
+,,Eleni Constantinou,Female,"Software Engineering Lab, University of Mons, Belgium; Eindhoven University of Technology, Netherlands","Belgium, Netherlands",1,1,0,0,1,0,0,0,0,0,0,0,1,1
+,,Tom Mens,Male,"Software Engineering Lab, University of Mons, Belgium",Belgium,1,0,0,1,0,0,1,0,0,1,0,0,1,1
+,,Henrique Rocha,Male,"Lab On Reengineering (LORE - Ansymo), University of Antwerp, Belgium",Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bug severity prediction using question-and-answer pairs from Stack Overflow,Bug Severity Prediction; Machine Learning; Stack Overflow Data; Bug Triaging; Software Maintenance,Youshuai Tan,Male,"College of Software, Harbin Engineering University, Harbin, China",China,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+,,Sijie Xu,Male,"College of Software, Harbin Engineering University, Harbin, China",China,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+,,Zhaowei Wang,Male,"School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China",China,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+,,Tao Zhang,Male,"Faculty of Information Technology, Macau University of Science and Technology, Macao, China","Macao, China",1,0,0,0,0,0,0,0,0,1,0,0,0,0
+,,Zhou Xu,Male,"School of Big Data and Software Engineering, Chongqing University, Chongqing, China",China,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+,,Xiapu Luo,Male,"Department of Computing, Hong Kong Polytechnic University, Hong Kong, China",China,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Systematic literature review of empirical studies on mental representations of programs,Program Comprehension; Mental Representations; Empirical Studies in Programming; Programming Languages; Psychology of Programming,Leah Bidlake,Female,"Faculty of Computer Science, University of New Brunswick, 550 Windsor St, Fredericton, NB, Canada",Canada,1,1,1,0,1,1,0,0,0,0,0,1,1,1
+,,Eric Aubanel,Male,"Faculty of Computer Science, University of New Brunswick, 550 Windsor St, Fredericton, NB, Canada",Canada,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+,,Daniel Voyer,Male,"Department of Psychology, University of New Brunswick, Canada",Canada,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+Inner source software development: Current thinking and an agenda for future research,Open Source Software; Inner Source Development; Systematic Literature Review; Management Challenges; Research Agenda,Henry Edison,Male,"Lero, National University of Ireland Galway",Ireland,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+,,Noel Carroll,Male,"Lero, National University of Ireland Galway",Ireland,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+,,Lorraine Morgan,Female,"Lero, National University of Ireland Galway",Ireland,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+,,Kieran Conboy,Male,"Lero, National University of Ireland Galway",Ireland,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+Formal analysis and verification of the PSTM architecture using CSP,Formal Verification; Software Architecture; CSP; Model Checking; Software Transactional Memory,Ailun Liu,Male,"Shanghai Key Laboratory of Trustworthy Computing, MOE International Joint Laboratory of Trustworthy Software, International Research Center of Trustworthy Software, East China Normal University",China,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+,,Huibiao Zhu,Male,"Shanghai Key Laboratory of Trustworthy Computing, MOE International Joint Laboratory of Trustworthy Software, International Research Center of Trustworthy Software, East China Normal University",China,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+,,Miroslav Popovic,Male,The University of Novi Sad,Serbia,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+,,Shuangqing Xiang,Male,"Shanghai Key Laboratory of Trustworthy Computing, MOE International Joint Laboratory of Trustworthy Software, International Research Center of Trustworthy Software, East China Normal University",China,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+,,Lei Zhang,Male,"Shanghai Key Laboratory of Multidimensional Information Processing, East China Normal University",China,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Modeling programs hierarchically with stack-augmented LSTM,Programming Language Modeling; Neural Networks; Code Completion; Program Classification; Code Summarization,Fang Liu,Female,"Peking University, Beijing",China,1,1,0,0,1,1,0,0,1,0,1,1,1,0
+,,Lu Zhang,Male,"Peking University, Beijing",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Zhi Jin,Male,"Peking University, Beijing",China,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+On testing machine learning programs,Machine Learning; Software Testing; Reliability Engineering; Deep Learning; Reinforcement Learning,Houssem Ben Braiek,Male,"SWAT Lab., Polytechnique Montréal",Canada,1,1,0,0,1,0,0,0,0,0,0,0,1,0
+,,Foutse Khomh,Male,"SWAT Lab., Polytechnique Montréal",Canada,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+Lexical content as a cooperation aide: A study based on Java software,Collaborative Software Development; Lexical Content in Source Code; Developer Coordination; Version Control Systems; Software Maintenance,Andrea Capiluppi,Male,"Dept. of Computer Science, Brunel University London",UK,1,1,1,0,0,1,0,0,1,0,0,0,1,0
+,,Nemitari Ajienka,Male,"Dept. of Computer Science, Edge Hill University",UK,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+Cloud reliability and efficiency improvement via failure risk based proactive actions,Cloud Computing; Reliability Engineering; Failure Prediction; Proactive Failure Mitigation; Resource Optimization,Yuli Tian,Female,"School of Computer Science, Northwestern Polytechnical University; Ministry of Industry and Information Technology Key Laboratory of Big Data Storage and Management",China,1,0,1,0,1,1,0,0,1,0,0,0,1,0
+,,Jeff Tian,Male,"Department of Computer Science, Southern Methodist University; School of Informatics, Northwest University","USA, China",1,0,0,0,0,1,0,1,0,1,0,0,0,1
+,,Ning Li,Male,"School of Computer Science, Northwestern Polytechnical University; Ministry of Industry and Information Technology Key Laboratory of Big Data Storage and Management",China,1,0,0,0,0,1,0,1,0,0,0,0,0,1
+Cost-efficient dynamic scheduling of big data applications in apache spark on cloud,Cloud Computing; Big Data Processing; Job Scheduling; Resource Optimization; Apache Spark,Muhammed Tawfiqul Islam,Male,"Cloud Computing and Distributed Systems (CLOUDS) Laboratory, School of Computing and Information Systems, The University of Melbourne",Australia,1,1,1,0,1,1,0,0,1,0,1,1,1,0
+,,Satish Narayana Srirama,Male,"Cloud Computing and Distributed Systems (CLOUDS) Laboratory, The University of Melbourne; Mobile & Cloud Lab, Institute of Computer Science, University of Tartu","Australia, Estonia",1,0,1,0,0,1,0,0,0,0,0,0,0,1
+,,Shanika Karunasekera,Female,"Cloud Computing and Distributed Systems (CLOUDS) Laboratory, School of Computing and Information Systems, The University of Melbourne",Australia,1,0,1,0,0,0,0,0,0,1,0,0,0,1
+,,Rajkumar Buyya,Male,"Cloud Computing and Distributed Systems (CLOUDS) Laboratory, School of Computing and Information Systems, The University of Melbourne",Australia,1,0,0,1,0,0,1,1,0,1,0,0,0,1
+Analyzing bug fix for automatic bug cause classification,Bug Fixing; Bug Cause Classification; Code Analysis; Abstract Syntax Tree; Tree-based Convolutional Neural Network,Zhen Ni,Male,"School of Information Engineering, Yangzhou University",China,0,0,0,0,0,1,0,0,1,0,1,0,1,1
+,,Bin Li,Male,"School of Information Engineering, Yangzhou University",China,1,0,0,0,0,1,1,0,0,1,0,0,0,0
+,,Xiaobing Sun,Male,"School of Information Engineering, Yangzhou University; State Key Laboratory for Novel Software Technology, Nanjing University",China,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+,,Tianhao Chen,Male,"School of Information Engineering, Yangzhou University",China,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Ben Tang,Male,"School of Information Engineering, Yangzhou University",China,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+,,Xinchen Shi,Male,"School of Information Engineering, Yangzhou University",China,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+An Android application risk evaluation framework based on minimum permission set identification,Android Security; App Permissions; Overprivilege Detection; Static Analysis; Collaborative Filtering,Jianmao Xiao,Male,"College of Intelligence and Computing, Tianjin University, Tianjin, China",China,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+,,Shizhan Chen,Male,"College of Intelligence and Computing, Tianjin University, Tianjin, China",China,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+,,Qiang He,Male,"School of Software and Electrical Engineering, Swinburne University of Technology, Hawthorn, VIC 3122, Australia",Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Zhiyong Feng,Male,"College of Intelligence and Computing, Tianjin University, Tianjin, China",China,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+,,Xiao Xue,Female,"College of Intelligence and Computing, Tianjin University, Tianjin, China",China,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+MT-EA4Cloud: A Methodology For testing and optimising energy-aware cloud systems,Cloud Systems; Energy Consumption Optimization; Metamorphic Testing; Evolutionary Algorithms; Cloud Simulation,Pablo C. Cañizares,Male,Universidad Complutense de Madrid,Spain,1,0,0,0,1,1,0,0,1,0,1,0,0,0
+,,Alberto Núñez,Male,Universidad Complutense de Madrid,Spain,1,0,0,0,1,1,0,0,0,1,0,0,1,0
+,,Juan de Lara,Male,Universidad Autónoma de Madrid,Spain,0,0,0,0,1,1,0,0,0,1,0,0,1,0
+,,Luis Llana,Male,Universidad Complutense de Madrid,Spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+LAURA architecture: Towards a simpler way of building situation-aware and business-aware IoT applications,IoT; WSN; Business Process Management; Situation Awareness; Open-source Architecture,Sergio Teixeira,Male,"Universidade Federal do Espírito Santo (UFES), Centro Universitário Católico de Vitória (UCV)",Brazil,1,1,0,0,1,1,1,0,1,0,1,0,1,1
+,,Bruno Alves Agrizzi,Male,Universidade Federal do Espírito Santo (UFES),Brazil,0,1,0,0,1,0,0,1,1,0,0,0,0,0
+,,José Gonçalves Pereira Filho,Male,Universidade Federal do Espírito Santo (UFES),Brazil,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+,,Silvana Rossetto,Female,Universidade Federal do Rio de Janeiro (UFRJ),Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Isaac Simões Araújo Pereira,Male,Universidade Federal do Espírito Santo (UFES),Brazil,1,0,0,0,1,1,0,1,1,0,0,0,0,0
+,,Patrícia Dockhorn Costa,Female,Universidade Federal do Espírito Santo (UFES),Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Adriano Francisco Branco,Male,Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio),Brazil,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+,,Ruan Rocha Martinelli,Male,Universidade Federal do Espírito Santo (UFES),Brazil,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+A model-driven approach for the development of native mobile applications focusing on the data layer,Mobile Application Development; Model-Driven Development; Data Layer Design; Offline Data Persistence; Cross-platform Development,Manuel Núñez,Male,"Department of Electronics and Computer Science Engineering (DEI), Catholic University ”Nuestra Señora de la Asunción”",Paraguay,1,1,1,0,1,0,0,0,1,0,1,1,1,1
+,,Daniel Bonhaure,Male,"Department of Electronics and Computer Science Engineering (DEI), Catholic University ”Nuestra Señora de la Asunción”",Paraguay,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+,,Magalí González,Female,"Department of Electronics and Computer Science Engineering (DEI), Catholic University ”Nuestra Señora de la Asunción”",Paraguay,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+,,Luca Cernuzzi,Male,"Department of Electronics and Computer Science Engineering (DEI), Catholic University ”Nuestra Señora de la Asunción”",Paraguay,0,0,0,0,0,0,0,1,0,1,1,0,0,1
+Automatic retrieval and analysis of high availability scenarios from system execution traces: A case study on hot standby router protocol,"High availability, Dynamic analysis, System execution traces, Failure detection, IP networks",Maged Sheghdara,Male,"Department of Information and Computer Science, KFUPM",Saudi Arabia,0,1,1,0,1,0,0,0,1,0,1,0,1,0
+,,Jameleddine Hassine,Male,"Department of Information and Computer Science, KFUPM",Saudi Arabia,1,0,1,1,1,1,1,1,0,1,1,0,1,1
+A framework for pervasive computing applications based on smart objects...,"Pervasive computing, Smart Objects, End-user development, System engineering, User experience",Christos Goumopoulos,Male,"Department of Information & Communication Systems Engineering, University of the Aegean; Computer Technology Institute and Press, Diophantus, Patras",Greece,1,0,1,0,1,1,0,0,1,1,0,1,1,1
+,,Irene Mavrommati,Female,"Hellenic Open University, School of Applied Arts",Greece,1,1,0,0,0,1,0,0,0,0,1,0,0,1
+ThermoSim: Deep learning based framework for modeling and simulation of thermal-aware resource management for cloud computing environments,"Cloud computing, Energy consumption, Temperature, Neural networks, Resource management",Sukhpal Singh Gill,Male,"Queen Mary University of London, Cloud Computing and Distributed Systems (CLOUDS) Laboratory, The University of Melbourne","UK, Australia",1,1,1,0,1,1,0,0,1,0,1,1,1,1
+,,Shreshth Tuli,Male,Indian Institute of Technology (IIT) Delhi,India,1,1,0,0,0,1,0,0,1,0,1,0,0,1
+,,Adel Nadjaran Toosi,Male,Monash University,Australia,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+,,Felix Cuadrado,Male,"Queen Mary University of London, Technical University of Madrid (UPM)","UK, Spain",0,0,1,0,0,0,0,0,1,0,0,0,0,1
+,,Peter Garraghan,Male,Lancaster University,UK,0,0,1,0,0,1,0,0,0,1,0,0,1,1
+,,Rami Bahsoon,Male,University of Birmingham,UK,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+,,Hanan Lutfiyya,Female,University of Western Ontario,Canada,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,,Rizos Sakellariou,Male,University of Manchester,UK,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+,,Omer Rana,Male,Cardiff University,UK,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+,,Schahram Dustdar,Male,Vienna University of Technology,Austria,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+,,Rajkumar Buyya,Male,"Cloud Computing and Distributed Systems (CLOUDS) Laboratory, The University of Melbourne",Australia,1,0,1,0,0,1,0,0,0,1,0,1,1,1
+Adaptive metamorphic testing with contextual bandits,"Software testing, Reinforcement learning, Machine learning, Image classification, Object detection",Helge Spieker,Male,"Simula Research Laboratory, Lysaker 1325, Norway",Norway,1,1,0,0,0,1,0,0,1,0,1,1,1,1
+,,Arnaud Gotlieb,Male,"Simula Research Laboratory, Lysaker 1325, Norway",Norway,0,0,0,1,0,1,0,0,0,1,0,0,1,1
+CODE reuse in practice: Benefiting or harming technical debt,"TD, Software reuse, Principal, Interest, OSS",Daniel Feitosa,Male,"Data Research Centre, University of Groningen",Netherlands,1,1,1,0,0,1,0,0,1,0,0,0,1,1
+,,Apostolos Ampatzoglou,Male,"Department of Applied Informatics, University of Macedonia",Greece,1,1,0,0,0,1,0,0,0,0,0,0,1,1
+,,Antonios Gkortzis,Male,"Department of Management Science and Technology, Athens University of Economics and Business",Greece,1,0,0,0,0,1,0,0,1,0,0,0,1,1
+,,Stamatia Bibi,Female,"Department of Informatics and Telecommunications, University of Western Macedonia",Greece,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+,,Alexander Chatzigeorgiou,Male,"Department of Applied Informatics, University of Macedonia",Greece,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+Automated defect identification via path analysis-based features with transfer learning,"Code generation, defect identification, machine learning, transfer learning, software engineering",Yuwei Zhang,Male,"State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications",China,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+,,Dahai Jin,Male,"State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications",China,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,Ying Xing,Female,"Automation School, Beijing University of Posts and Telecommunications",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Yunzhan Gong,Male,"State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications",China,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"General framework, opportunities and challenges for crowdsourcing techniques: A Comprehensive survey","Crowdsourcing, open innovation, scalability, task decomposition, answer aggregation",Shahzad Sarwar Bhatti,Male,"The Shanghai Key Laboratory of Scalable Computing and Systems, Department of Computer Science and Engineering, Shanghai Jiao Tong University",China,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+,,Xiaofeng Gao,Male,"The Shanghai Key Laboratory of Scalable Computing and Systems, Department of Computer Science and Engineering, Shanghai Jiao Tong University",China,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Guihai Chen,Male,"The Shanghai Key Laboratory of Scalable Computing and Systems, Department of Computer Science and Engineering, Shanghai Jiao Tong University",China,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+96,,,,,,,,,,,,,,,,,,,
