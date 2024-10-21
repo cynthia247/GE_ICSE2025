@@ -111,5 +111,12 @@ boxplot(conceptualization_female, conceptualization_male, dataCuration_female, d
 axis(side=1,at=c(1.5,4.5),  labels= c("Conceptualization","Data Curation"), cex.axis = 1.3)
 abline(v=3, lty=2)
 abline(v=6, lty=2)
+points(c(1, 2), c(mean_delayVio, mean_delayNonVio), col = "black", pch = 19)
 
-legend(1,25,legend= c( "Female","Male"), col=c("black","gray"), cex=1.5, pt.cex = 2.5, pch=c(0,15), box.col = "white", bg = "white")
+# Annotate the mean values
+text(x = c(1, 2, 4,5), y = c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male), 
+     labels = paste("Mean:", round(c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male), 2)), 
+     pos = 1, col = "black")
+
+
+legend("topright",legend= c( "Female","Male"), col=c("black","gray"), cex=1.00, pt.cex = 2.5, pch=c(0,15), box.col = "white", bg = "white")
