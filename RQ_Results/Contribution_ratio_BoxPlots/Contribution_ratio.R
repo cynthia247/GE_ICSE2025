@@ -149,48 +149,48 @@ mean_formalAnalysis_male <- mean(formalAnalysis_male)
 
 #--------------------Funding Acquisition------------------------#
 
-fundingAcquisition_female = data$Female.Funding.Acquisition.Ratio
-fundingAcquisition_female <- fundingAcquisition_female[!is.na(fundingAcquisition_female) & !is.nan(fundingAcquisition_female)]
-
-Q1 = quantile(fundingAcquisition_female, 0.25)
-Q3 = quantile(fundingAcquisition_female, 0.75)
-IQR = Q3 - Q1
-
-# Define lower and upper bounds
-lower_bound <- Q1 - 1.5 * IQR
-upper_bound <- Q3 + 1.5 * IQR
-
-# Remove outliers
-fundingAcquisition_female <- fundingAcquisition_female[fundingAcquisition_female >= lower_bound & fundingAcquisition_female <= upper_bound]
-
-# Summary of AccIdVio after removing outliers
-summary(fundingAcquisition_female)
-
-
-
-fundingAcquisition_male = data$Male.Funding.Acquisition.Ratio
-fundingAcquisition_male <- fundingAcquisition_male[!is.na(fundingAcquisition_male) & !is.nan(fundingAcquisition_male)]
-
-Q1 = quantile(fundingAcquisition_male, 0.25)
-Q3 = quantile(fundingAcquisition_male, 0.75)
-IQR = Q3 - Q1
-
-# Define lower and upper bounds
-lower_bound <- Q1 - 1.5 * IQR
-upper_bound <- Q3 + 1.5 * IQR
-
-# Remove outliers
-fundingAcquisition_male <- fundingAcquisition_male[fundingAcquisition_male >= lower_bound & fundingAcquisition_male <= upper_bound]
-
-# Summary of AccIdVio after removing outliers
-summary(fundingAcquisition_male)
-
-wilcox.test(fundingAcquisition_female, fundingAcquisition_male)
-
-cliff.delta(fundingAcquisition_female, fundingAcquisition_male)
-
-mean_fundingAcquisition_female <- mean(fundingAcquisition_female)
-mean_fundingAcquisition_male <- mean(fundingAcquisition_male)
+# fundingAcquisition_female = data$Female.Funding.Acquisition.Ratio
+# fundingAcquisition_female <- fundingAcquisition_female[!is.na(fundingAcquisition_female) & !is.nan(fundingAcquisition_female)]
+# 
+# Q1 = quantile(fundingAcquisition_female, 0.25)
+# Q3 = quantile(fundingAcquisition_female, 0.75)
+# IQR = Q3 - Q1
+# 
+# # Define lower and upper bounds
+# lower_bound <- Q1 - 1.5 * IQR
+# upper_bound <- Q3 + 1.5 * IQR
+# 
+# # Remove outliers
+# fundingAcquisition_female <- fundingAcquisition_female[fundingAcquisition_female >= lower_bound & fundingAcquisition_female <= upper_bound]
+# 
+# # Summary of AccIdVio after removing outliers
+# summary(fundingAcquisition_female)
+# 
+# 
+# 
+# fundingAcquisition_male = data$Male.Funding.Acquisition.Ratio
+# fundingAcquisition_male <- fundingAcquisition_male[!is.na(fundingAcquisition_male) & !is.nan(fundingAcquisition_male)]
+# 
+# Q1 = quantile(fundingAcquisition_male, 0.25)
+# Q3 = quantile(fundingAcquisition_male, 0.75)
+# IQR = Q3 - Q1
+# 
+# # Define lower and upper bounds
+# lower_bound <- Q1 - 1.5 * IQR
+# upper_bound <- Q3 + 1.5 * IQR
+# 
+# # Remove outliers
+# fundingAcquisition_male <- fundingAcquisition_male[fundingAcquisition_male >= lower_bound & fundingAcquisition_male <= upper_bound]
+# 
+# # Summary of AccIdVio after removing outliers
+# summary(fundingAcquisition_male)
+# 
+# wilcox.test(fundingAcquisition_female, fundingAcquisition_male)
+# 
+# cliff.delta(fundingAcquisition_female, fundingAcquisition_male)
+# 
+# mean_fundingAcquisition_female <- mean(fundingAcquisition_female)
+# mean_fundingAcquisition_male <- mean(fundingAcquisition_male)
 
 
 #--------------------Investigation------------------------#
@@ -330,48 +330,48 @@ mean_projectAdministration_male <- mean(projectAdministration_male)
 
 #--------------------Resources------------------------#
 
-resources_female = data$Female.Resources.Ratio
-resources_female <- resources_female[!is.na(resources_female) & !is.nan(resources_female)]
-
-Q1 = quantile(resources_female, 0.25)
-Q3 = quantile(resources_female, 0.75)
-IQR = Q3 - Q1
-
-# Define lower and upper bounds
-lower_bound <- Q1 - 1.5 * IQR
-upper_bound <- Q3 + 1.5 * IQR
-
-# Remove outliers
-resources_female <- resources_female[resources_female >= lower_bound & resources_female <= upper_bound]
-
-# Summary of AccIdVio after removing outliers
-summary(resources_female)
-
-
-
-resources_male = data$Male.Resources.Ratio
-resources_male <- resources_male[!is.na(resources_male) & !is.nan(resources_male)]
-
-Q1 = quantile(resources_male, 0.25)
-Q3 = quantile(resources_male, 0.75)
-IQR = Q3 - Q1
-
-# Define lower and upper bounds
-lower_bound <- Q1 - 1.5 * IQR
-upper_bound <- Q3 + 1.5 * IQR
-
-# Remove outliers
-resources_male <- resources_male[resources_male >= lower_bound & resources_male <= upper_bound]
-
-# Summary of AccIdVio after removing outliers
-summary(resources_male)
-
-wilcox.test(resources_female, resources_male)
-
-cliff.delta(resources_female, resources_male)
-
-mean_resources_female <- mean(resources_female)
-mean_resources_male <- mean(resources_male)
+# resources_female = data$Female.Resources.Ratio
+# resources_female <- resources_female[!is.na(resources_female) & !is.nan(resources_female)]
+# 
+# Q1 = quantile(resources_female, 0.25)
+# Q3 = quantile(resources_female, 0.75)
+# IQR = Q3 - Q1
+# 
+# # Define lower and upper bounds
+# lower_bound <- Q1 - 1.5 * IQR
+# upper_bound <- Q3 + 1.5 * IQR
+# 
+# # Remove outliers
+# # resources_female <- resources_female[resources_female >= lower_bound & resources_female <= upper_bound]
+# 
+# # Summary of AccIdVio after removing outliers
+# summary(resources_female)
+# 
+# 
+# 
+# resources_male = data$Male.Resources.Ratio
+# resources_male <- resources_male[!is.na(resources_male) & !is.nan(resources_male)]
+# 
+# Q1 = quantile(resources_male, 0.25)
+# Q3 = quantile(resources_male, 0.75)
+# IQR = Q3 - Q1
+# 
+# # Define lower and upper bounds
+# lower_bound <- Q1 - 1.5 * IQR
+# upper_bound <- Q3 + 1.5 * IQR
+# 
+# # Remove outliers
+# resources_male <- resources_male[resources_male >= lower_bound & resources_male <= upper_bound]
+# 
+# # Summary of AccIdVio after removing outliers
+# summary(resources_male)
+# 
+# wilcox.test(resources_female, resources_male)
+# 
+# cliff.delta(resources_female, resources_male)
+# 
+# mean_resources_female <- mean(resources_female)
+# mean_resources_male <- mean(resources_male)
 
 #--------------------Software------------------------#
 
@@ -596,30 +596,32 @@ cliff.delta(writing_review_female, writing_review_male)
 mean_writing_review_female <- mean(writing_review_female)
 mean_writing_review_male <- mean(writing_review_male)
 
-boxplot(conceptualization_female, conceptualization_male, dataCuration_female, dataCuration_male,formalAnalysis_female, formalAnalysis_male, fundingAcquisition_female, fundingAcquisition_male, investigation_female, investigation_male, methodology_female, methodology_male,projectAdministration_female, projectAdministration_male,
-        at=c(1,2, 4,5, 7,8, 10,11, 13,14, 16,17, 19,20), xaxt="n", ylab="Contribution Ratio", outline = F,cex.lab=0.9,
-        col = c("white","gray","white","gray", "white","gray", "white","gray", "white","gray", "white","gray", "white","gray"))
-axis(side=1,at=c(1.5,4.5, 7.5, 10.5, 13.5, 16.5, 19.5),  labels= c("Conceptualization", "Data Curation", "Formal Analysis", "Funding Acquisition", "Investigation", "Methodology", "Project Administration"), cex.axis = 0.75)
+boxplot(conceptualization_female, conceptualization_male, dataCuration_female, dataCuration_male,formalAnalysis_female, formalAnalysis_male, investigation_female, investigation_male, methodology_female, methodology_male,projectAdministration_female, projectAdministration_male,
+        at=c(1,2, 4,5, 7,8, 10,11, 13,14, 16,17), xaxt="n", ylab="Contribution Ratio", outline = F,cex.lab=0.9,
+        col = c("white","gray", "white","gray", "white","gray", "white","gray", "white","gray", "white","gray"))
+axis(side=1,at=c(1.5,4.5, 7.5, 10.5, 13.5, 16.5),  labels= c("Conceptualization", "Data Curation", "Formal Analysis", "Investigation", "Methodology", "Project Administration"), cex.axis = 0.75)
 
 abline(v=3, lty=2)
 abline(v=6, lty=2)
 abline(v=9, lty=2)
 abline(v=12, lty=2)
 abline(v=15, lty=2)
-abline(v=18, lty=2)
-abline(v=21, lty=2)
 
-points(c(1, 2,4,5,7,8, 10,11, 13,14, 16,17, 19,20), c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male, mean_formalAnalysis_female, mean_formalAnalysis_male, mean_fundingAcquisition_female, mean_fundingAcquisition_male, mean_investigation_female, mean_investigation_male, mean_methodology_female, mean_methodology_male, mean_projectAdministration_female, mean_projectAdministration_male), col = "black", pch = 19)
 
-text(x = c(1, 2, 4,5,7,8, 10,11, 13,14, 16,17, 19,20), y = c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male, mean_formalAnalysis_female, mean_formalAnalysis_male, mean_fundingAcquisition_female, mean_fundingAcquisition_male, mean_investigation_female, mean_investigation_male, mean_methodology_female, mean_methodology_male, mean_projectAdministration_female, mean_projectAdministration_male), 
-     labels = paste(round(c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male, mean_formalAnalysis_female, mean_formalAnalysis_male, mean_fundingAcquisition_female, mean_fundingAcquisition_male, mean_investigation_female, mean_investigation_male, mean_methodology_female, mean_methodology_male, mean_projectAdministration_female, mean_projectAdministration_male), 2)), 
-     pos = 3.5, col = "black")
 
-legend("center", 
+points(c(1, 2,4,5,7,8, 10,11, 13,14, 16,17), c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male, mean_formalAnalysis_female, mean_formalAnalysis_male, mean_investigation_female, mean_investigation_male, mean_methodology_female, mean_methodology_male, mean_projectAdministration_female, mean_projectAdministration_male), col = "black", pch = 19)
+
+text(x = c(1, 2, 4,5,7,8, 10,11, 13,14, 16,17), y = c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male, mean_formalAnalysis_female, mean_formalAnalysis_male, mean_investigation_female, mean_investigation_male, mean_methodology_female, mean_methodology_male, mean_projectAdministration_female, mean_projectAdministration_male), 
+     labels = paste(round(c(mean_conceptualization_female, mean_conceptualization_male, mean_dataCuration_female, mean_dataCuration_male, mean_formalAnalysis_female, mean_formalAnalysis_male, mean_investigation_female, mean_investigation_male, mean_methodology_female, mean_methodology_male, mean_projectAdministration_female, mean_projectAdministration_male), 2)), 
+     pos = 3, 
+     cex=0.80,
+     col = "black")
+
+legend("topright", 
        legend = c("Female", "Male"), 
        col = c("black", "gray"), 
-       cex = 1.00,               # Text size
-       pt.cex = 1.00,             # Point size
+       cex = 0.7,               # Text size
+       pt.cex = 0.8,             # Point size
        pch = c(0, 15),           # Symbols for Female and Male
        x.intersp = 0.5,         # Horizontal space between legend text and symbols
        y.intersp = 0.75,          # Vertical space between legend items
@@ -628,27 +630,30 @@ legend("center",
 
 
 
-boxplot(resources_female, resources_male,software_female, software_male, supervision_female, supervision_male, validation_female, validation_male, visualization_female, visualization_male, writing_original_female, writing_original_male, writing_review_female, writing_review_male,
-        at=c(1,2, 4,5, 7,8, 10,11, 13,14, 16,17, 19,20), xaxt="n", ylab="Contribution Ratio", outline = F,cex.lab=0.9,
-        col = c("white","gray","white","gray", "white","gray", "white","gray", "white","gray", "white","gray", "white","gray"))
-axis(side=1,at=c(1.5,4.5, 7.5, 10.5, 13.5, 16.5, 19.5),  labels= c("Resources", "Software", "Supervision", "Validation", "Visualization", "Writing - original draft", "Writing - review & editing"), cex.axis = 0.75)
+boxplot(software_female, software_male, supervision_female, supervision_male, validation_female, validation_male, visualization_female, visualization_male, writing_original_female, writing_original_male, writing_review_female, writing_review_male,
+        at=c(1,2, 4,5, 7,8, 10,11, 13,14, 16,17), xaxt="n", ylab="Contribution Ratio", outline = F,cex.lab=0.9,
+        col = c("white","gray", "white","gray", "white","gray", "white","gray", "white","gray", "white","gray"))
+axis(side=1,at=c(1.5,4.5, 7.5, 10.5, 13.5, 16.5),  labels= c("Software", "Supervision", "Validation", "Visualization", "Writing - original draft", "Writing - review & editing"), cex.axis = 0.75)
 
 abline(v=3, lty=2)
 abline(v=6, lty=2)
 abline(v=9, lty=2)
 abline(v=12, lty=2)
 abline(v=15, lty=2)
-abline(v=18, lty=2)
-abline(v=21, lty=2)
+
+
 
 
 # Annotate the mean values
-points(c(1, 2,4,5,7,8, 10,11, 13,14, 16,17, 19,20), c(mean_resources_female, mean_resources_male, mean_software_female, mean_software_male, mean_supervision_female, mean_supervision_male, mean_validation_female, mean_validation_male, mean_visualization_female, mean_visualization_male, mean_writing_original_female, mean_writing_original_male, mean_writing_review_female, mean_writing_review_male), col = "black", pch = 19)
+points(c(1, 2,4,5,7,8, 10,11, 13,14, 16,17), c(mean_software_female, mean_software_male, mean_supervision_female, mean_supervision_male, mean_validation_female, mean_validation_male, mean_visualization_female, mean_visualization_male, mean_writing_original_female, mean_writing_original_male, mean_writing_review_female, mean_writing_review_male), col = "black", pch = 19)
 
 # Annotate the mean values
-text(x = c(1, 2, 4,5,7,8, 10,11, 13,14, 16,17, 19,20), y = c(mean_resources_female, mean_resources_male, mean_software_female, mean_software_male, mean_supervision_female, mean_supervision_male, mean_validation_female, mean_validation_male, mean_visualization_female, mean_visualization_male, mean_writing_original_female, mean_writing_original_male, mean_writing_review_female, mean_writing_review_male), 
-     labels = paste(round(c(mean_resources_female, mean_resources_male, mean_software_female, mean_software_male, mean_supervision_female, mean_supervision_male, mean_validation_female, mean_validation_male, mean_visualization_female, mean_visualization_male, mean_writing_original_female, mean_writing_original_male, mean_writing_review_female, mean_writing_review_male), 2)), 
-     pos = 3.5, col = "black")
+text(x = c(1, 2, 4,5,7,8, 10,11, 13,14, 16,17), 
+     y = c(mean_software_female, mean_software_male, mean_supervision_female, mean_supervision_male, mean_validation_female, mean_validation_male, mean_visualization_female, mean_visualization_male, mean_writing_original_female, mean_writing_original_male, mean_writing_review_female, mean_writing_review_male+0.04), 
+     labels = paste(round(c( mean_software_female, mean_software_male, mean_supervision_female, mean_supervision_male, mean_validation_female, mean_validation_male, mean_visualization_female, mean_visualization_male, mean_writing_original_female, mean_writing_original_male, mean_writing_review_female, mean_writing_review_male), 2)), 
+     pos = 3, 
+     cex=0.80,
+     col = "black")
 
 
 #legend("topright",legend= c( "Female","Male"), col=c("black","gray"), cex=0.75, pt.cex = 1.00, pch=c(0,15), x.intersp = 0.5, box.col = "white", bg = "white")

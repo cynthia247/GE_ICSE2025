@@ -1,0 +1,173 @@
+Paper Title,Study Domain Terms,Author Name,Gender,gender_annotation,Affiliation,Unique Institute Count,Country,Unique Country Count,Total Authors,Female Authors,Female_lead?,Male_lead?,local_Contribution?,national_collaboration?,Industry_collaboration?,International_collaboration?,Supervision,FemaleSupervision,MaleSupervision
+Secondary studies in the academic context: A systematic mapping and survey,Systematic Literature Review; Software Engineering; Secondary Studies; Research Methodology; Academic Research,Katia Romero Felizardo,Female,1,"Federal University of Technology - ParanÃ¡ (UTFPR), Brazil",3,Brazil,2,5,4,1,0,0,0,,1,1,1,0
+,,Ã‰rica Ferreira de Souza,Female,1,"Federal University of Technology - ParanÃ¡ (UTFPR), Brazil",,Brazil,,,,,,,,,,0,0,0
+,,Bianca Minetto NapoleÃ£o,Female,1,"Federal University of Technology - ParanÃ¡ (UTFPR), Brazil",,Brazil,,,,,,,,,,0,0,0
+,,Nandamudi Lankalapalli Vijaykumar,Male,0,"National Institute for Space Research (INPE), Federal University of SÃ£o Paulo (Unifesp), Brazil",,Brazil,,,,,,,,,,0,0,0
+,,Maria Teresa Baldassarre,Female,1,"UniversitÃ degli Studi di Bari Aldo Moro, Italy",,Italy,,,,,,,,,,0,0,0
+Integrating GitLab metrics into coursework consultation sessions in a software engineering course,Software Engineering Education; GitLab Metrics; Collaborative Coding; Student Project Assessment; Educational Software Development Tools,Sukru Eraslan,Male,0,"Department of Computer Science, University of Manchester",2,United Kingdom,1,7,3,0,1,0,1,,0,0,0,0
+,,Kamilla Kopec-Harding,Female,1,"Research IT, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+,,Caroline Jay,Female,1,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,1,1,0
+,,Suzanne M. Embury,Female,1,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+,,Robert Haines,Male,0,"Research IT, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+,,Julio CÃ©sar CortÃ©s RÃ­os,Male,0,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+,,Peter Crowther,Male,0,"Research IT, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+Exploring the intersection between software industry and Software Engineering education - A systematic mapping of Software Engineering Trends,"Software engineering, Software education, Agile development, Global software engineering, Lean software startup",Orges Cico,Male,0,"Department of Computer Science, Norwegian University of Science and Technology, Trondheim, Norway",3,Norway,2,4,1,0,1,0,0,,1,0,0,0
+,,Letizia Jaccheri,Female,1,"Department of Computer Science, Norwegian University of Science and Technology, Trondheim, Norway",,Norway,,,,,,,,,,1,1,0
+,,Anh Nguyen-Duc,Male,0,"Department of Business and IT, USN School of Business, BÃ¸ i Telemark, Norway",,Norway,,,,,,,,,,0,0,0
+,,He Zhang,Male,0,"DevOps+ Research Laboratory, Nanjing University, China",,China,,,,,,,,,,0,0,0
+SWFC-ART: A cost-effective approach for Fixed-Size-Candidate-Set Adaptive Random Testing through small world graphs,"Adaptive random testing, Software testing, Nearest neighbor search, Small world graphs, High-dimensional input domains",Muhammad Ashfaq,Male,0,"School of Computer Science and Communication Engineering, Jiangsu University, Jiangsu 212013, China",6,China,3,7,1,0,1,0,0,,1,0,0,0
+,,Rubing Huang,Female,1,"School of Computer Science and Communication Engineering, Jiangsu University, Jiangsu 212013, China",,China,,,,,,,,,,1,1,0
+,,Dave Towey,Male,0,"School of Computer Science, University of Nottingham Ningbo, Zhejiang 315100, China",,China,,,,,,,,,,0,0,0
+,,Michael Omari,Male,0,"Department of Computer Science, Takoradi Technical University, Western Region 23321, Ghana",,Ghana,,,,,,,,,,0,0,0
+,,Dmitry Yashunin,Male,0,"Harman X, Nizhny Novgorod Oblast 603105, Russia",,Russia,,,,,,,,,,0,0,0
+,,Patrick Kwaku Kudjo,Male,0,"University of Professional Studies, Greater Accra Region 00233, Ghana",,Ghana,,,,,,,,,,0,0,0
+,,Tao Zhang,Male,0,"Faculty of Information Technology, Macau University of Science and Technology, Macau 999078, China",,China,,,,,,,,,,0,0,0
+Investigating and recommending co-changed entities for JavaScript programs,"JavaScript, Machine learning, Software maintenance, Co-changed entities, Code recommendation",Zijian Jiang,Male,0,"Virginia Polytechnic Institute and State University, Blacksburg VA 24060, USA",2,USA,2,3,1,0,1,0,0,,1,0,0,0
+,,Hao Zhong,Male,0,"Shanghai Jiao Tong University, Shanghai 200240, China",,China,,,,,,,,,,0,0,0
+,,Na Meng,Female,1,"Virginia Polytechnic Institute and State University, Blacksburg VA 24060, USA",,USA,,,,,,,,,,1,1,0
+Software defect prediction based on enhanced metaheuristic feature selection optimization and a hybrid deep neural network,"Software defect prediction, Feature selection, Deep neural network, Metaheuristic optimization, Machine learning",Kun Zhu,Male,0,"School of Computer Science, Wuhan University, China",2,China,1,4,2,0,1,0,1,,0,0,0,0
+,,Shi Ying,Female,1,"School of Computer Science, Wuhan University, China",,China,,,,,,,,,,1,1,0
+,,Nana Zhang,Female,1,"School of Computer Science, Wuhan University, China",,China,,,,,,,,,,0,0,0
+,,Dandan Zhu,Male,0,"Artificial Intelligence Institute, Shanghai Jiaotong University, China",,China,,,,,,,,,,0,0,0
+Tuning configuration of Apache Spark on public clouds by combining multi-objective optimization and performance prediction model,"Cloud computing, Apache Spark, Multi-objective optimization, Performance tuning, Configuration optimization",Guoli Cheng,Male,0,"School of Computer Science, Wuhan University, Bayi Road 299, Wuhan, China",1,China,1,3,1,0,1,1,1,,0,0,0,0
+,,Shi Ying,Female,1,"School of Computer Science, Wuhan University, Bayi Road 299, Wuhan, China",,China,,,,,,,,,,1,1,0
+,,Bingming Wang,Male,0,"School of Computer Science, Wuhan University, Bayi Road 299, Wuhan, China",,China,,,,,,,,,,0,0,0
+Understanding the perceived relevance of capability measures: A survey of Agile Software Development practitioners,"Agile Software Development, Capability measures, Team performance, Survey, Practitioner perceptions",Sai Datta Vishnubhotla,Male,0,"Department of Computer Science, BTH - Blekinge Tekniska HÃ¶gskola, Sweden",1,Sweden,1,3,1,0,1,1,1,,0,0,0,0
+,,Emilia Mendes,Female,1,"Department of Computer Science, BTH - Blekinge Tekniska HÃ¶gskola, Sweden",,Sweden,,,,,,,,,,1,1,0
+,,Lars Lundberg,Male,0,"Department of Computer Science, BTH - Blekinge Tekniska HÃ¶gskola, Sweden",,Sweden,,,,,,,,,,0,0,0
+A study on correlations between architectural smells and design patterns,"Design patterns, Architectural smells, Software design, Empirical study, Open source software",Ilaria Pigazzini,Female,1,"University of Milano - Bicocca, Milan, Italy",2,Italy,2,3,2,1,0,0,0,,1,0,0,0
+,,Francesca Arcelli Fontana,Female,1,"University of Milano - Bicocca, Milan, Italy",,Italy,,,,,,,,,,1,1,0
+,,Bartosz Walter,Male,0,"Poznan University of Technology, Poznan, Poland",,Poland,,,,,,,,,,0,0,0
+Tigris: A DSL and framework for monitoring software systems at runtime,"Software monitoring, Runtime analysis, Adaptation, Domain-specific language, Performance optimization",Jhonny Mertz,Male,0,"Universidade Federal do Rio Grande do Sul (UFRGS), Instituto de InformÃ¡tica, Porto Alegre, Brazil",1,Brazil,1,2,1,0,1,1,1,,0,0,0,0
+,,Ingrid Nunes,Female,1,"Universidade Federal do Rio Grande do Sul (UFRGS), Instituto de InformÃ¡tica, Porto Alegre, Brazil",,Brazil,,,,,,,,,,1,1,0
+ProDSPL: Proactive self-adaptation based on Dynamic Software Product Lines,"Dynamic Software Product Lines, Self-adaptation, Proactive approach, Configuration generation, Quality requirements",Inmaculada Ayala,Female,1,"Departamento de Lenguajes y Ciencias de la ComputaciÃ³n, Universidad de MÃ¡laga, Spain, ITIS Software, Universidad de MÃ¡laga, Spain",2,Spain,2,4,3,1,0,0,0,,1,0,0,0
+,,Alessandro V. Papadopoulos,Male,0,"MÃ¤lardalens hÃ¶gskola, Sweden",,Sweden,,,,,,,,,,0,0,0
+,,Mercedes Amor,Female,1,"Departamento de Lenguajes y Ciencias de la ComputaciÃ³n, Universidad de MÃ¡laga, Spain, ITIS Software, Universidad de MÃ¡laga, Spain",,Spain,,,,,,,,,,0,0,0
+,,Lidia Fuentes,Female,1,"Departamento de Lenguajes y Ciencias de la ComputaciÃ³n, Universidad de MÃ¡laga, Spain, ITIS Software, Universidad de MÃ¡laga, Spain",,Spain,,,,,,,,,,1,1,0
+Interdisciplinary effects of technical debt in companies with mechatronic products â€” a qualitative study,"Technical debt, Mechatronics, Digitalization, Engineering, Interdisciplinary",Birgit Vogel-Heuser,Female,1,"Institute of Automation and Information Systems, Technische UniversitÃ¤t MÃ¼nchen, 85748 Garching b. MÃ¼nchen, Germany",1,Germany,1,2,1,1,0,1,1,,0,1,1,0
+,,Fandi Bi,Male,0,"Institute of Automation and Information Systems, Technische UniversitÃ¤t MÃ¼nchen, 85748 Garching b. MÃ¼nchen, Germany",,Germany,,,,,,,,,,0,0,0
+Facilitating program comprehension with call graph multilevel hierarchical abstractions,"Program comprehension, Call graph, Hierarchical abstractions, Software maintenance, Clustering",Rakan Alanazi,Male,0,"School of Computing and Engineering, University of Missouri-Kansas City, MO, USA, Faculty of Computing and Information Technology, Northern Border University, Rafha, Saudi Arabia",2,"USA, Saudi Arabia",2,3,1,0,1,0,0,,1,0,0,0
+,,Gharib Gharibi,Male,0,"School of Computing and Engineering, University of Missouri-Kansas City, MO, USA",,USA,,,,,,,,,,0,0,0
+,,Yugyung Lee,Female,1,"School of Computing and Engineering, University of Missouri-Kansas City, MO, USA",,USA,,,,,,,,,,1,1,0
+Accessibility and Software Engineering Processes: A Systematic Literature Review,"Software development, Accessibility, Design, Testing, Process establishment",DÃ©bora Maria Barroso Paiva,Female,1,"Faculdade de ComputaÃ§Ã£o, Universidade Federal de Mato Grosso do Sul, Cidade UniversitÃ¡ria, s/n - Campo Grande MS, Brazil",3,Brazil,1,3,2,1,0,0,1,,0,1,1,0
+,,AndrÃ© Pimenta Freire,Male,0,"Departamento de CiÃªncia da ComputaÃ§Ã£o, Universidade Federal de Lavras, Caixa Postal 3037 - Lavras MG, Brazil",,Brazil,,,,,,,,,,0,0,0
+,,Renata Pontin de Mattos Fortes,Female,1,"Instituto de CiÃªncias MatemÃ¡ticas e de ComputaÃ§Ã£o, Universidade de SÃ£o Paulo, Av. Trabalhador SÃ£o-carlense 400 - SÃ£o Carlos SP, Brazil",,Brazil,,,,,,,,,,0,0,0
+Synthesizing researches on Knowledge Management and Agile Software Development using the Meta-ethnography method,"Knowledge Management, Agile Software Development, Meta-ethnography, Scrum, XP",Bianca Minetto NapoleÃ£o,Female,1,"Department of Computer, Federal University of Technology, ParanÃ¡ - UTFPR, CornÃ©lio ProcÃ³pio, ParanÃ¡, Brazil",2,Brazil,1,6,3,1,0,0,1,,0,1,1,0
+,,Ã‰rica Ferreira de Souza,Female,1,"Department of Computer, Federal University of Technology, ParanÃ¡ - UTFPR, CornÃ©lio ProcÃ³pio, ParanÃ¡, Brazil",,Brazil,,,,,,,,,,1,1,0
+,,Glauco Antonio Ruiz,Male,0,"Department of Computer, Federal University of Technology, ParanÃ¡ - UTFPR, CornÃ©lio ProcÃ³pio, ParanÃ¡, Brazil",,Brazil,,,,,,,,,,0,0,0
+,,Katia Romero Felizardo,Female,1,"Department of Computer, Federal University of Technology, ParanÃ¡ - UTFPR, CornÃ©lio ProcÃ³pio, ParanÃ¡, Brazil",,Brazil,,,,,,,,,,0,0,0
+,,Giovani Volnei Meinerz,Male,0,"Department of Computer, Federal University of Technology, ParanÃ¡ - UTFPR, CornÃ©lio ProcÃ³pio, ParanÃ¡, Brazil",,Brazil,,,,,,,,,,0,0,0
+,,Nandamudi Lankalapalli Vijaykumar,Male,0,"National Institute for Space Research (INPE), Laboratory of Computing and Applied Mathematics (LAC), SÃ£o JosÃ© dos Campos, SÃ£o Paulo, Brazil; Federal University of SÃ£o Paulo (Unifesp), Institute of Science & Technology (ICT), SÃ£o JosÃ© dos Campos, SÃ£o Paulo, Brazil",,Brazil,,,,,,,,,,0,0,0
+Factors affecting Agile adoption: An industry research study of the mobile app sector in Saudi Arabia,"Agile, adoption, software, human factors, SMEs",Fahad S. Altuwaijri,Male,0,"a) School of Computing and Communications, Lancaster University, UK; b) Department of Information Technology, College of Computer, Qassim University, Saudi Arabia",2,"UK, Saudi Arabia",2,2,1,0,1,0,0,,1,0,0,0
+,,Maria Angela Ferrario,Female,1,"c) School of Electronics, Electrical Engineering and Computer Science, Queenâ€™s University, Belfast, UK",,UK,,,,,,,,,,1,1,0
+How has design thinking being used and integrated into software development activities? A systematic mapping,"Design Thinking, Software Development, Systematic Mapping, Models, Techniques",Rafael Parizi,Male,0,Pontifical Catholic University of Rio Grande do Sul - PUCRS,2,Brazil,1,4,2,0,1,0,1,,0,0,0,0
+,,Matheus Prestes,Male,0,Pontifical Catholic University of Rio Grande do Sul - PUCRS,,Brazil,,,,,,,,,,0,0,0
+,,Sabrina Marczak,Female,1,Pontifical Catholic University of Rio Grande do Sul - PUCRS,,Brazil,,,,,,,,,,1,1,0
+,,Tayana Conte,Female,1,Federal University of Amazonas - UFAM,,Brazil,,,,,,,,,,1,1,0
+On the benefits and problems related to using Definition of Doneâ€”A survey studyâœ©,"Scrum, Agile, Definition of Done, Survey, Empirical study",Sylwia KopczyÅ„ska,Female,1,"Poznan University of Technology, Institute of Computing Science",1,Poland,1,4,1,1,0,1,1,,0,1,1,0
+,,MirosÅ‚aw Ochodek,Male,0,"Poznan University of Technology, Institute of Computing Science",,Poland,,,,,,,,,,0,0,0
+,,Jakub Piechowiak,Male,0,"Poznan University of Technology, Institute of Computing Science",,Poland,,,,,,,,,,0,0,0
+,,Jerzy Nawrocki,Male,0,"Poznan University of Technology, Institute of Computing Science",,Poland,,,,,,,,,,0,0,0
+On the use of artificial intelligence to deal with privacy in IoT systems: A systematic literature review,"IoT, AI, Privacy, Malware Detection, Network Analysis",Giammaria Giordano,Male,0,"SeSa Lab - Department of Computer Science, University of Salerno",1,Italy,1,3,1,0,1,1,1,,0,0,0,0
+,,Fabio Palomba,Male,0,"SeSa Lab - Department of Computer Science, University of Salerno",,Italy,,,,,,,,,,0,0,0
+,,Filomena Ferrucci,Female,1,"SeSa Lab - Department of Computer Science, University of Salerno",,Italy,,,,,,,,,,1,1,0
+Preventing accessibility barriers: Guidelines for using user interface design patterns in mobile applications,"Accessibility, UI Design, Mobile Apps, Guidelines, Prototyping",Luciana A.M. Zaina,Female,1,Federal University of SÃ£o Carlos (UFSCAR),3,Brazil,1,5,3,1,0,0,1,,0,1,1,0
+,,Renata P.M. Fortes,Female,1,University of SÃ£o Paulo (USP),,Brazil,,,,,,,,,,1,1,0
+,,Vitor Casadei,Male,0,Federal University of SÃ£o Carlos (UFSCAR),,Brazil,,,,,,,,,,0,0,0
+,,Leornardo Seiji Nozaki,Male,0,Federal University of SÃ£o Carlos (UFSCAR),,Brazil,,,,,,,,,,0,0,0
+,,DÃ©bora Maria Barroso Paiva,Female,1,Federal University of Mato Grosso do Sul (UFMS),,Brazil,,,,,,,,,,1,1,0
+Self-adaptive mobile web service discovery framework for Dynamic Mobile Environment,"Mobile web service, Dynamic mobile environment, Context-based discovery, Service categorization, Meta-context ontology",Salisu Garba,Male,0,Universiti Teknologi Malaysia,1,Malaysia,1,3,2,0,1,1,1,,0,0,0,0
+,,Radziah Mohamad,Female,1,Universiti Teknologi Malaysia,,Malaysia,,,,,,,,,,1,1,0
+,,Nor Azizah Saadon,Female,1,Universiti Teknologi Malaysia,,Malaysia,,,,,,,,,,0,0,0
+Sharing runtime permission issues for developers based on similar-app review mining,"Android permissions, Runtime issues, Sentiment analysis, Deep learning, Developer tools",Hongcan Gao,Male,0,"College of Computer Science, Nankai University, Tianjin 300350, China",3,China,2,7,1,0,1,0,0,,1,0,0,0
+,,Chenkai Guo,Male,0,"College of Computer Science, Nankai University, Tianjin 300350, China",,China,,,,,,,,,,0,0,0
+,,Guangdong Bai,Male,0,"School of Information Technology and Electrical Engineering, The University of Queensland, Australia",,Australia,,,,,,,,,,0,0,0
+,,Dengrong Huang,Male,0,"College of Computer Science, Nankai University, Tianjin 300350, China",,China,,,,,,,,,,0,0,0
+,,Zhen He,Male,0,"College of Artificial Intelligence, Nankai University, Tianjin 300350, China",,China,,,,,,,,,,0,0,0
+,,Yanfeng Wu,Male,0,"College of Artificial Intelligence, Nankai University, Tianjin 300350, China",,China,,,,,,,,,,0,0,0
+,,Jing Xu,Female,1,"College of Artificial Intelligence, Nankai University, Tianjin 300350, China",,China,,,,,,,,,,1,1,0
+Systematic literature review of domain-oriented specification techniques,"Domain-specific languages, System specification, Cognitive concepts, Model integration, Domain models",Robert Deckers,Male,0,"Vrije Universiteit Amsterdam, Atom Free IT",2,The Netherlands,2,2,1,0,1,0,0,,1,0,0,0
+,,Patricia Lago,Female,1,"Vrije Universiteit Amsterdam, Chalmers University of Technology",,"The Netherlands, Sweden",,,,,,,,,,1,1,0
+Open tracing tools: Overview and critical comparison,"software, tracing, tools, architecture, engineers",Andrea Janes,Female,1,FHV Vorarlberg University of Applied Sciences,3,Austria,2,3,2,1,0,0,0,,1,0,0,0
+,,Xiaozhou Li,Male,0,"Tampere University, University of Oulu",,Finland,,,,,,,,,,0,0,0
+,,Valentina Lenarduzzi,Female,1,University of Oulu,,Finland,,,,,,,,,,1,1,0
+The impact of unequal contributions in student software engineering team projects,"software engineering, education, teamwork, contribution, performance",Kamilla Kopec-Harding,Female,1,"Research IT, University of Manchester",3,United Kingdom,2,5,3,1,0,0,0,,1,0,0,0
+,,Sukru Eraslan,Male,0,"Middle East Technical University, Northern Cyprus Campus",,Turkey,,,,,,,,,,0,0,0
+,,Bowen Cai,Male,0,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+,,Suzanne M. Embury,Female,1,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+,,Caroline Jay,Female,1,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,1,1,0
+An effective fault localization approach based on PageRank and mutation analysis,"mutation testing, PageRank, fault localization, software testing, experimental results",Yue Yan,Female,1,"Engineering Research Center of Mine Digitalization (China University of Mining and Technology), School of Computer Science and Technology",1,China,1,4,3,1,0,1,1,,0,0,0,0
+,,Shujuan Jiang,Female,1,"Engineering Research Center of Mine Digitalization (China University of Mining and Technology), School of Computer Science and Technology",,China,,,,,,,,,,0,0,0
+,,Yanmei Zhang,Female,1,"Engineering Research Center of Mine Digitalization (China University of Mining and Technology), School of Computer Science and Technology",,China,,,,,,,,,,1,1,0
+,,Cheng Zhang,Male,0,"Engineering Research Center of Mine Digitalization (China University of Mining and Technology), School of Computer Science and Technology",,China,,,,,,,,,,0,0,0
+Automatic software vulnerability assessment by extracting vulnerability elements,"Software security, Vulnerability assessment, BERT, Automated assessment, Machine learning",Xiaobing Sun,Male,0,"School of Information Engineering, Yangzhou University, Yangzhou, China, Jiangsu Province Engineering Research Center of Knowledge Management and Intelligent Service, Yangzhou University, Yangzhou, China",3,China,2,7,3,0,1,0,0,,1,0,0,0
+,,Zhenlei Ye,Male,0,"School of Information Engineering, Yangzhou University, Yangzhou, China, Jiangsu Province Engineering Research Center of Knowledge Management and Intelligent Service, Yangzhou University, Yangzhou, China",,China,,,,,,,,,,0,0,0
+,,Lili Bo,Female,1,"School of Information Engineering, Yangzhou University, Yangzhou, China, Jiangsu Province Engineering Research Center of Knowledge Management and Intelligent Service, Yangzhou University, Yangzhou, China, Key Laboratory of Safetyâ€“Critical Software Ministry of Industry and Information Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China",,China,,,,,,,,,,1,1,0
+,,Xiaoxue Wu,Female,1,"School of Information Engineering, Yangzhou University, Yangzhou, China, Jiangsu Province Engineering Research Center of Knowledge Management and Intelligent Service, Yangzhou University, Yangzhou, China",,China,,,,,,,,,,1,1,0
+,,Ying Wei,Female,1,"School of Information Engineering, Yangzhou University, Yangzhou, China, Jiangsu Province Engineering Research Center of Knowledge Management and Intelligent Service, Yangzhou University, Yangzhou, China",,China,,,,,,,,,,1,1,0
+,,Tao Zhang,Male,0,"School of Computer Science and Engineering, Macau University of Science and Technology (MUST), Macao Special Administrative Region of China",,Macao,,,,,,,,,,0,0,0
+,,Bin Li,Male,0,"School of Information Engineering, Yangzhou University, Yangzhou, China, Jiangsu Province Engineering Research Center of Knowledge Management and Intelligent Service, Yangzhou University, Yangzhou, China",,China,,,,,,,,,,0,0,0
+"Characteristics, causes, and consequences of technical debt in the automation domain","Technical debt, Automation, Software development, Interdisciplinary collaboration, Causal chains",Fandi Bi,Male,0,"Institute of Automation and Information Systems, Technische UniversitÃ¤t MÃ¼nchen, Garching b. MÃ¼nchen, Germany",1,Germany,1,4,2,0,1,1,1,,0,0,0,0
+,,Birgit Vogel-Heuser,Female,1,"Institute of Automation and Information Systems, Technische UniversitÃ¤t MÃ¼nchen, Garching b. MÃ¼nchen, Germany",,Germany,,,,,,,,,,1,1,0
+,,Ziyi Huang,Female,1,"Institute of Automation and Information Systems, Technische UniversitÃ¤t MÃ¼nchen, Garching b. MÃ¼nchen, Germany",,Germany,,,,,,,,,,0,0,0
+,,Felix Ocker,Male,0,"Institute of Automation and Information Systems, Technische UniversitÃ¤t MÃ¼nchen, Garching b. MÃ¼nchen, Germany",,Germany,,,,,,,,,,0,0,0
+A first look at bug report templates on GitHub,"bug report templates, GitHub, empirical study, software engineering, template mechanism",Hongyan Li,Female,1,"School of Big Data and Software Engineering, Chongqing University, Chongqing, China",1,China,1,5,2,1,0,1,1,,0,0,0,0
+,,Meng Yan,Female,1,"School of Big Data and Software Engineering, Chongqing University, Chongqing, China",,China,,,,,,,,,,1,1,0
+,,Weifeng Sun,Male,0,"School of Big Data and Software Engineering, Chongqing University, Chongqing, China",,China,,,,,,,,,,0,0,0
+,,Xiao Liu,Male,0,"School of Big Data and Software Engineering, Chongqing University, Chongqing, China",,China,,,,,,,,,,0,0,0
+,,Yunsong Wu,Male,0,"School of Big Data and Software Engineering, Chongqing University, Chongqing, China",,China,,,,,,,,,,0,0,0
+Software runtime monitoring with adaptive sampling rate to collect representative samples of execution traces,"Software Monitoring, Runtime Analysis, Adaptive Sampling, Performance Evaluation, Data Collection",Jhonny Mertz,Male,0,"Universidade Federal do Rio Grande do Sul (UFRGS), Instituto de InformÃ¡tica, Brazil",1,Brazil,1,2,1,0,1,1,1,,0,0,0,0
+,,Ingrid Nunes,Female,1,"Universidade Federal do Rio Grande do Sul (UFRGS), Instituto de InformÃ¡tica, Brazil",,Brazil,,,,,,,,,,1,1,0
+Simple stupid insecure practices and GitHubâ€™s code search: A looming threat?,"Software Security, Open Source",Ken Russel Go,Male,0,"RMIT University, School of Computing Technologies, Australia",3,Australia,2,5,3,0,1,0,0,,1,0,0,0
+,,Sruthi Soundarapandian,Female,1,"RMIT University, School of Computing Technologies, Australia",,Australia,,,,,,,,,,0,0,0
+,,Aparupa Mitra,Female,1,"RMIT University, School of Computing Technologies, Australia",,Australia,,,,,,,,,,0,0,0
+,,Melina Vidoni,Female,1,"Australian National University, CECS School of Computing, Australia",,Australia,,,,,,,,,,1,1,0
+,,NicolÃ¡s E. DÃ­az Ferreyra,Male,0,"Hamburg University of Technology, Institute of Software Security, Germany",,Germany,,,,,,,,,,0,0,0
+Does Deep Learning improve the performance of duplicate bug report detection? An empirical study,"Bug Detection, Deep Learning, Information Retrieval",Yuan Jiang,Male,0,"School of Computer Science and technology, Harbin Institute of Technology",2,China,2,5,1,0,1,0,0,,1,0,0,0
+,,Xiaohong Su,Female,1,"School of Computer Science and technology, Harbin Institute of Technology",,China,,,,,,,,,,1,1,0
+,,Christoph Treude,Male,0,"School of Computing and Information Systems, University of Melbourne",,Australia,,,,,,,,,,0,0,0
+,,Chao Shang,Male,0,"School of Computer Science and technology, Harbin Institute of Technology",,China,,,,,,,,,,0,0,0
+,,Tiantian Wang,Male,0,"School of Computer Science and technology, Harbin Institute of Technology",,China,,,,,,,,,,0,0,0
+A modular metamodel and refactoring rules to achieve software product line interoperability,"Software Product Lines, Software Engineering",Jose-Miguel Horcas,Male,0,"AndalucÃ­a Tech, ITIS Software, Universidad de MÃ¡laga",1,Spain,1,3,2,0,1,1,1,,0,0,0,0
+,,MÃ³nica Pinto,Female,1,"AndalucÃ­a Tech, ITIS Software, Universidad de MÃ¡laga",,Spain,,,,,,,,,,0,0,0
+,,Lidia Fuentes,Female,1,"AndalucÃ­a Tech, ITIS Software, Universidad de MÃ¡laga",,Spain,,,,,,,,,,1,1,0
+Explaining quality attribute tradeoffs in automated planning for self-adaptive systems,"Software Engineering, AI",Rebekka Wohlrab,Female,1,"Department of Computer Science and Engineering, Chalmers | University of Gothenburg, Gothenburg, Sweden, Software and Societal Systems Department, Carnegie Mellon University, Pittsburgh, USA",3,"Swedan, USA",3,4,1,1,0,0,0,,1,1,1,0
+,,Javier CÃ¡mara,Male,0,"ITIS Software, University of MÃ¡laga, MÃ¡laga, Spain",,Spain,,,,,,,,,,0,0,0
+,,David Garlan,Male,0,"Software and Societal Systems Department, Carnegie Mellon University, Pittsburgh, USA",,USA,,,,,,,,,,0,0,0
+,,Bradley Schmerl,Male,0,"Software and Societal Systems Department, Carnegie Mellon University, Pittsburgh, USA",,USA,,,,,,,,,,0,0,0
+How are websites used during development and what are the implications for the coding process?,"Websites, Coding, Software quality, Code reuse, Programmer behavior",Omar Alghamdi,Male,0,"Department of Computer Science, University of Manchester, College of Computing and Informatics, Saudi Electronic University",2,"United Kingdom, Saudi Arabia",2,4,3,0,1,0,0,,1,0,0,0
+,,Sarah Clinch,Female,1,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,1,1,0
+,,Rigina Skeva,Female,1,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,0,0,0
+,,Caroline Jay,Female,1,"Department of Computer Science, University of Manchester",,United Kingdom,,,,,,,,,,1,1,0
+An architecture for model-based and intelligent automation in DevOps,"DevOps, AI, Machine Learning, Model Driven Engineering, Automation",Romina Eramo,Female,1,"Department of Communication Science, University of Teramo",5,Italy,3,5,1,1,0,0,0,,1,1,1,0
+,,Bilal Said,Male,0,"Softeam Software BU, Docaposte",,France,,,,,,,,,,0,0,0
+,,Marc Oriol,Male,0,Universitat PolitÃ¨cnica de Catalunya,,Spain,,,,,,,,,,0,0,0
+,,Hugo Bruneliere,Male,0,"IMT Atlantique, LS2N (UMR CNRS 6004)",,France,,,,,,,,,,0,0,0
+,,Sergio Morales,Male,0,Universitat Oberta de Catalunya,,Spain,,,,,,,,,,0,0,0
+An Empirical Investigation Into the Influence of Software Communitiesâ€™ Cultural and Geographical Dispersion on Productivity,"productivity, cultural diversity, geographical dispersion, software analytics, open-source",Stefano Lambiase,Male,0,"SeSa Lab - University of Salerno, Italy",2,Italy,2,7,2,0,1,0,0,,1,0,0,0
+,,Gemma Catolino,Female,1,"Jheronimus Academy of Data Science, The Netherlands",,The Netherlands,,,,,,,,,,0,0,0
+,,Fabiano Pecorelli,Male,0,"Jheronimus Academy of Data Science, The Netherlands",,The Netherlands,,,,,,,,,,0,0,0
+,,Damian A. Tamburri,Male,0,"Jheronimus Academy of Data Science, The Netherlands",,The Netherlands,,,,,,,,,,0,0,0
+,,Fabio Palomba,Male,0,"SeSa Lab - University of Salerno, Italy",,Italy,,,,,,,,,,0,0,0
+,,Willem-Jan van den Heuvel,Male,0,"Jheronimus Academy of Data Science, The Netherlands",,The Netherlands,,,,,,,,,,0,0,0
+,,Filomena Ferrucci,Female,1,"SeSa Lab - University of Salerno, Italy",,Italy,,,,,,,,,,1,1,0
+Barriers to device longevity and reuse: A vintage device empirical study,"app installation, functionality, vintage devices, Apple, reuse",Craig Goodwin,Male,0,"Keele University, Staffordshire, UK",1,UK,1,2,1,0,1,1,1,,0,0,0,0
+,,Sandra Woolley,Female,1,"Keele University, Staffordshire, UK",,UK,,,,,,,,,,1,1,0
+ConflictBench: A benchmark to evaluate software merge tools,"collaborative software development, merge tools, conflict detection, open-source Java projects, software metrics",Bowen Shen,Male,0,Virginia Polytechnic Institute and State University,1,USA,1,2,1,0,1,1,1,,0,0,0,0
+,,Na Meng,Female,1,Virginia Polytechnic Institute and State University,,USA,,,,,,,,,,1,1,0
+Examining the effect of software professionalsâ€™ personality & additional capabilities on agile teamsâ€™ climate,Agile Team Climate; Personality Traits; Capability Measures; Organizational Performance; Correlation Analysis,Sai Datta Vishnubhotla,Male,0,"Department of Computer Science, BTH - Blekinge Tekniska HÃ¶gskola",1,Sweden,1,2,1,0,1,0,0,,1,0,0,0
+,,Emilia Mendes,Female,1,"Department of Computer Science, BTH - Blekinge Tekniska HÃ¶gskola",,Sweden,,,,,,,,,,1,1,0
+Exploring the relation between personality traits and agile team climate: Aggregating results from a twice replicated study in a telecom company,Personality Traits; Agile Teams; Team Climate; Regression Analysis; Meta-Analysis,Sai Datta Vishnubhotla,Male,0,"Department of Computer Science, BTH - Blekinge Tekniska HÃ¶gskola",1,Sweden,1,2,1,0,1,0,0,,1,0,0,0
+,,Emilia Mendes,Female,1,"Department of Computer Science, BTH - Blekinge Tekniska HÃ¶gskola",,Sweden,,,,,,,,,,1,1,0
+GDPR compliance via software evolution: Weaving security controls in software design,GDPR Compliance; Software Design; Privacy Controls; Security Controls; Software Evolution,Vanessa Ayala-Rivera,Female,1,"Technological University Dublin (TU Dublin), National College of Ireland (NCI)",3,Ireland,1,3,2,1,0,0,0,,1,0,0,0
+,,A. Omar Portillo-Dominguez,Male,0,Technological University Dublin (TU Dublin),,Ireland,,,,,,,,,,0,0,0
+,,Liliana Pasquale,Female,1,"University College Dublin (UCD), SFI Research Centre for Software (Lero)",,Ireland,,,,,,,,,,1,1,0
+JITGNN: A deep graph neural network framework for Just-In-Time bug prediction,Just-In-Time Bug Prediction; Graph Neural Networks; Software Change Metrics; Deep Learning for Software Prediction; Source Code Analysis,Hossein Keshavarz,Male,0,University of Waterloo,2,Canada,1,2,1,0,1,0,0,,1,0,0,0
+,,Gema RodrÃ­guez-PÃ©rez,Female,1,"University of British Columbia, Kelowna",,Canada,,,,,,,,,,1,1,0
+Thriving in the era of hybrid work: Raising cybersecurity awareness using serious games in industry trainings,"Cybersecurity, Hybrid work, Serious games, Secure software, Cloud security",Tiange Zhao,Female,1,"Siemens AG, Otto-Hahn-Ring 6, 81739, MuÌˆnchen, Germany",3,Germany,2,4,3,1,0,0,0,,1,0,0,0
+,,Tiago Gasiba,Male,0,"Siemens AG, Otto-Hahn-Ring 6, 81739, MuÌˆnchen, Germany",,Germany,,,,,,,,,,0,0,0
+,,Ulrike Lechner,Female,1,"University of the Bundeswehr Munich, Werner-Heisenberg-Weg 39, 85579, Neubiberg, Germany",,Germany,,,,,,,,,,1,1,0
+,,Maria Pinto-Albuquerque,Female,1,"Instituto UniversitÃ¡rio de Lisboa (ISCTE-IUL), ISTAR, Av. das ForÃ§as Armadas, 1649â€“026 Lisboa, Portugal",,Portugal,,,,,,,,,,1,1,0
+What is discussed about Flutter on Stack Overflow (SO) question-and-answer (Q&A) website: An empirical study,"Mobile Development, Cross-platform, Flutter, Stack Overflow, Software Engineering",Afit Alanazi,Male,0,"King Saud University, College of Computer and Information Sciences, Riyadh",1,Saudi Arabia,1,2,1,0,1,1,1,,0,0,0,0
+,,Reem Alfayez,Female,1,"King Saud University, College of Computer and Information Sciences, Riyadh",,Saudi Arabia,,,,,,,,,,1,1,0
+,,,,,,,,,,,,,15,21,,24,,52,
