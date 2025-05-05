@@ -4,7 +4,7 @@ library(lattice)
 graphics.off()
 par(mfrow=c(2,1))
 
-data=read.csv("Conceptualization_ratio.csv", header = T)
+data=read.csv("/home/uji657/Downloads/src/Successful_Female_Researchers/RQ_Results/Contribution_ratio_BoxPlots/Conceptualization_ratio.csv", header = T)
 
 #--------------------Conceptualization------------------------#
 
